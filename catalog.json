@@ -1,0 +1,8213 @@
+{
+ "generatedAt": "2026-09-24",
+ "source": "Facturas 2026 en Google Drive (revisión manual) + tarifa Foster septiembre 2026 + propuesta Prodesco 24/09",
+ "suppliers": [
+  {
+   "id": "prodesco",
+   "name": "Prodesco",
+   "categoria": "Limpieza, asiático y congelados",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "garcia-molinero",
+   "name": "García Molinero",
+   "categoria": "Congelados y precocinados",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "tgt",
+   "name": "TGT",
+   "categoria": "Quesos y lácteos",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "makro",
+   "name": "Makro",
+   "categoria": "Carne fresca, secos y menaje",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "foster-food",
+   "name": "Foster Food",
+   "categoria": "Fast food y salsas",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "solum-pars",
+   "name": "Solum Pars",
+   "categoria": "Bebidas, aceites y conservas",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "alicentro",
+   "name": "Alicentro",
+   "categoria": "Ibéricos y embutidos",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "disconfa",
+   "name": "Disconfa",
+   "categoria": "Aves y congelados",
+   "feePerOrder": 1.2,
+   "exclusive": false
+  },
+  {
+   "id": "dmc",
+   "name": "DMC",
+   "categoria": "Precocinados",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "ehosa",
+   "name": "Ehosa",
+   "categoria": "Congelados y especias",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "serpeska",
+   "name": "Serpeska",
+   "categoria": "Pescado congelado y panadería",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "mahou",
+   "name": "Mahou",
+   "categoria": "Cerveza",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "disa-heineken",
+   "name": "Disa (Heineken)",
+   "categoria": "Cerveza y refrescos",
+   "feePerOrder": 1.42,
+   "exclusive": false
+  },
+  {
+   "id": "ddi-damm",
+   "name": "DDI (Damm)",
+   "categoria": "Cerveza",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "licores-silva",
+   "name": "Licores Silva",
+   "categoria": "Cerveza sin gluten",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "begibe",
+   "name": "Begibe",
+   "categoria": "Café",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "royalmar",
+   "name": "Royalmar",
+   "categoria": "Pan",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "pan-ranz",
+   "name": "Pan Ranz",
+   "categoria": "Pan",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "odyel-o-donnell",
+   "name": "Odyel (O'Donnell)",
+   "categoria": "Vinos, aceitunas y aperitivos",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "cohermo",
+   "name": "Cohermo",
+   "categoria": "Embutidos",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "barco",
+   "name": "Barco",
+   "categoria": "Huevos",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "hiper-usera",
+   "name": "Hiper Usera",
+   "categoria": "Varios",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "temas-de-higiene",
+   "name": "Temas de Higiene",
+   "categoria": "Desechables",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "alcarria-hosteleria",
+   "name": "Alcarria Hostelería",
+   "categoria": "Limpieza",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "frutas-tellez",
+   "name": "Frutas Téllez",
+   "categoria": "Fruta y verdura",
+   "feePerOrder": 0,
+   "exclusive": false
+  },
+  {
+   "id": "coca-cola",
+   "name": "Coca-Cola",
+   "categoria": "Refrescos",
+   "feePerOrder": 0,
+   "exclusive": true,
+   "note": "Sin alternativa: pedido directo, fuera de la comparación"
+  }
+ ],
+ "offers": [
+  {
+   "id": "prodesco-3086",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "3086",
+   "name": "Papel higiénico industrial (caja 18 rollos)",
+   "priceUnit": "€/caja",
+   "price": 20.68,
+   "discount": 0.0,
+   "date": "2026-06-23",
+   "note": "Caja de 18 rollos de 120 m (antes 200 m) al mismo precio: reclamar",
+   "firstPrice": 0.5744,
+   "firstDate": "2026-03-31"
+  },
+  {
+   "id": "prodesco-6632",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "6632",
+   "name": "Guantes nitrilo T/M (caja 100)",
+   "priceUnit": "€/caja",
+   "price": 3.75,
+   "discount": 0.0,
+   "date": "2026-09-24",
+   "note": "+31 % el 02/07 siendo aún Hygilander; luego cambio a Cuatrogasa; Precio de la propuesta de Prodesco del 24/09 (pendiente de confirmar)",
+   "firstPrice": 3.45,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-8619",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "8619",
+   "name": "Guantes nitrilo T/G (caja 100)",
+   "priceUnit": "€/caja",
+   "price": 3.75,
+   "discount": 0.0,
+   "date": "2026-09-24",
+   "note": "Cambio Hygilander → Cuatrogasa; Precio de la propuesta de Prodesco del 24/09 (pendiente de confirmar)",
+   "firstPrice": 3.55,
+   "firstDate": "2026-02-10"
+  },
+  {
+   "id": "prodesco-3090",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "3090",
+   "name": "Papel film 30 cm 300 m",
+   "priceUnit": "€/rollo",
+   "price": 4.9,
+   "discount": 0.0,
+   "date": "2026-09-24",
+   "note": "Precio de la propuesta de Prodesco del 24/09 (pendiente de confirmar)",
+   "firstPrice": 4.95,
+   "firstDate": "2026-03-17"
+  },
+  {
+   "id": "prodesco-7820",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "7820",
+   "name": "Lavavajillas manual 5 L",
+   "priceUnit": "€/garrafa",
+   "price": 5.99,
+   "discount": 0.0,
+   "date": "2026-09-24",
+   "note": "Subió 19/05 y ago; cambio Intacto → Induquim; Precio de la propuesta de Prodesco del 24/09 (pendiente de confirmar)",
+   "firstPrice": 5.517,
+   "firstDate": "2026-02-05"
+  },
+  {
+   "id": "prodesco-6526",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "6526",
+   "name": "Bolsa basura 100 L (rollo 10)",
+   "priceUnit": "€/rollo",
+   "price": 1.79,
+   "discount": 0.0,
+   "date": "2026-08-06",
+   "note": "",
+   "firstPrice": 1.6,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-3418",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "3418",
+   "name": "Fregona algodón nº5",
+   "priceUnit": "€/ud",
+   "price": 1.2,
+   "discount": 0.0,
+   "date": "2026-09-24",
+   "note": "1,39 en jul; 1,45 desde ago; Precio de la propuesta de Prodesco del 24/09 (pendiente de confirmar)",
+   "firstPrice": 1.3,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-3046",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "3046",
+   "name": "Lejía Casablanca 1 L",
+   "priceUnit": "€/botella",
+   "price": 0.575,
+   "discount": 0.0,
+   "date": "2026-09-08",
+   "note": "",
+   "firstPrice": 0.525,
+   "firstDate": "2026-02-05"
+  },
+  {
+   "id": "prodesco-3167",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "3167",
+   "name": "Amoniaco perfumado 1 L",
+   "priceUnit": "€/botella",
+   "price": 0.68,
+   "discount": 0.0,
+   "date": "2026-07-14",
+   "note": "Cambio Eurodel → Los Nietos",
+   "firstPrice": 0.624,
+   "firstDate": "2026-04-09"
+  },
+  {
+   "id": "prodesco-7762",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "7762",
+   "name": "Bayeta universal rollo 8 m",
+   "priceUnit": "€/rollo",
+   "price": 6.8,
+   "discount": 0.0,
+   "date": "2026-09-24",
+   "note": "Precio de la propuesta de Prodesco del 24/09 (pendiente de confirmar)",
+   "firstPrice": 6.82,
+   "firstDate": "2026-02-05"
+  },
+  {
+   "id": "prodesco-3102",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "3102",
+   "name": "Cepillo barrer nylon",
+   "priceUnit": "€/ud",
+   "price": 1.85,
+   "discount": 0.0,
+   "date": "2026-09-08",
+   "note": "",
+   "firstPrice": 1.79,
+   "firstDate": "2026-07-23"
+  },
+  {
+   "id": "prodesco-3184",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "3184",
+   "name": "Estropajo aluminio (pack 8)",
+   "priceUnit": "€/pack",
+   "price": 4.09,
+   "discount": 0.0,
+   "date": "2026-08-06",
+   "note": "",
+   "firstPrice": 3.96,
+   "firstDate": "2026-04-09"
+  },
+  {
+   "id": "prodesco-9476",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "9476",
+   "name": "Bayeta microfibra rosa (12 ud)",
+   "priceUnit": "€/paquete",
+   "price": 4.4,
+   "discount": 0.0,
+   "date": "2026-09-24",
+   "note": "Precio de la propuesta de Prodesco del 24/09 (pendiente de confirmar)",
+   "firstPrice": 4.43,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-8669",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "8669",
+   "name": "Bayeta microfibra verde (12 ud)",
+   "priceUnit": "€/paquete",
+   "price": 4.4,
+   "discount": 0.0,
+   "date": "2026-09-24",
+   "note": "Precio de la propuesta de Prodesco del 24/09 (pendiente de confirmar)",
+   "firstPrice": 4.43,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-9477",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "9477",
+   "name": "Bayeta microfibra azul (12 ud)",
+   "priceUnit": "€/paquete",
+   "price": 4.4,
+   "discount": 0.0,
+   "date": "2026-09-24",
+   "note": "Precio de la propuesta de Prodesco del 24/09 (pendiente de confirmar)",
+   "firstPrice": 4.374,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-9478",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "9478",
+   "name": "Bayeta microfibra amarilla (12 ud)",
+   "priceUnit": "€/paquete",
+   "price": 4.4,
+   "discount": 0.0,
+   "date": "2026-09-24",
+   "note": "Precio de la propuesta de Prodesco del 24/09 (pendiente de confirmar)",
+   "firstPrice": 4.43,
+   "firstDate": "2026-03-17"
+  },
+  {
+   "id": "prodesco-3349",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "3349",
+   "name": "Bolsa basura 240 L (rollo 10)",
+   "priceUnit": "€/rollo",
+   "price": 3.05,
+   "discount": 0.0,
+   "date": "2026-08-06",
+   "note": "",
+   "firstPrice": 2.97,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-3095",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "3095",
+   "name": "Papel aluminio 30 cm 200 m",
+   "priceUnit": "€/rollo",
+   "price": 16.19,
+   "discount": 0.0,
+   "date": "2026-05-26",
+   "note": "",
+   "firstPrice": 15.79,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "prodesco-3247",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "3247",
+   "name": "Estropajo con esponja (pack 6)",
+   "priceUnit": "€/pack",
+   "price": 1.99,
+   "discount": 0.0,
+   "date": "2026-07-02",
+   "note": "",
+   "firstPrice": 1.97,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-7537",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "7537",
+   "name": "Papel mecha 2 capas (pack 6)",
+   "priceUnit": "€/paquete",
+   "price": 16.0,
+   "discount": 0.0,
+   "date": "2026-05-26",
+   "note": "",
+   "firstPrice": 16.0,
+   "firstDate": "2026-02-10"
+  },
+  {
+   "id": "prodesco-10089",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "10089",
+   "name": "Bayeta microfibra limpiacristales rollo 6 m",
+   "priceUnit": "€/rollo",
+   "price": 8.69,
+   "discount": 0.0,
+   "date": "2026-04-07",
+   "note": "",
+   "firstPrice": 8.69,
+   "firstDate": "2026-03-17"
+  },
+  {
+   "id": "prodesco-3106",
+   "supplierId": "prodesco",
+   "category": "Limpieza/Higiene",
+   "code": "3106",
+   "name": "Recogedor mango alto",
+   "priceUnit": "€/ud",
+   "price": 3.8,
+   "discount": 0.0,
+   "date": "2026-03-23",
+   "note": "Compra puntual",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "prodesco-1953",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "1953",
+   "name": "Gyoza ternera-cerdo Wanrun 20 g",
+   "priceUnit": "€/ud",
+   "price": 0.48,
+   "discount": 0.0,
+   "date": "2026-09-21",
+   "note": "",
+   "firstPrice": 0.45,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-2775",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "2775",
+   "name": "Gyoza cordero Wanrun 20 g",
+   "priceUnit": "€/ud",
+   "price": 0.65,
+   "discount": 0.04,
+   "date": "2026-09-21",
+   "note": "Precio antes de dto 4 %",
+   "firstPrice": 0.61,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-salsa-kimchi-1-2-kg",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Salsa kimchi 1,2 kg",
+   "priceUnit": "€/ud",
+   "price": 18.19,
+   "discount": 0.0,
+   "date": "2026-09-21",
+   "note": "Cambio Momoya → Taikoban",
+   "firstPrice": 17.18,
+   "firstDate": "2026-02-19"
+  },
+  {
+   "id": "prodesco-30556",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "30556",
+   "name": "Salsa barbacoa Bull's Eye 2 L",
+   "priceUnit": "€/botella",
+   "price": 10.85,
+   "discount": 0.0,
+   "date": "2026-09-21",
+   "note": "10,69 desde 12/05; 10,85 desde ago",
+   "firstPrice": 10.36,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-3455",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "3455",
+   "name": "Croqueta jamón ibérico Deliplat 30 g (1 kg)",
+   "priceUnit": "€/bolsa",
+   "price": 11.19,
+   "discount": 0.04,
+   "date": "2026-09-21",
+   "note": "Antes de dto 4 %; subió ~01/08",
+   "firstPrice": 10.95,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "prodesco-3691",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "3691",
+   "name": "Croqueta rabo vacuno Deliplat 30 g (1 kg)",
+   "priceUnit": "€/bolsa",
+   "price": 11.19,
+   "discount": 0.04,
+   "date": "2026-09-21",
+   "note": "Antes de dto 4 %. Es rabo VACUNO, no de toro",
+   "firstPrice": 10.95,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "prodesco-9913",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "9913",
+   "name": "Alcachofa confit 3 Fanegas 1.350 g",
+   "priceUnit": "€/huevera",
+   "price": 28.55,
+   "discount": 0.04,
+   "date": "2026-08-25",
+   "note": "Antes de dto 4 %",
+   "firstPrice": 27.95,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-8290",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "8290",
+   "name": "Salsa sriracha Eagle 815 g",
+   "priceUnit": "€/bote",
+   "price": 3.75,
+   "discount": 0.0,
+   "date": "2026-09-21",
+   "note": "",
+   "firstPrice": 3.69,
+   "firstDate": "2026-04-28"
+  },
+  {
+   "id": "prodesco-30634",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "30634",
+   "name": "Salsa queso cheddar Piñata 3 kg",
+   "priceUnit": "€/lata",
+   "price": 16.69,
+   "discount": 0.0,
+   "date": "2026-09-08",
+   "note": "",
+   "firstPrice": 16.5,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-9396",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "9396",
+   "name": "Salsa ranchera Cannery Row 3,78 L",
+   "priceUnit": "€/garrafa",
+   "price": 28.09,
+   "discount": 0.0,
+   "date": "2026-09-21",
+   "note": "",
+   "firstPrice": 28.07,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "prodesco-9248",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "9248",
+   "name": "Ajinomoto 454 g",
+   "priceUnit": "€/bolsa",
+   "price": 2.55,
+   "discount": 0.0,
+   "date": "2026-05-28",
+   "note": "Única bajada en Prodesco",
+   "firstPrice": 2.76,
+   "firstDate": "2026-04-21"
+  },
+  {
+   "id": "prodesco-275",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "275",
+   "name": "Salsa soja Jiajiashan 1 L",
+   "priceUnit": "€/botella",
+   "price": 4.19,
+   "discount": 0.0,
+   "date": "2026-06-16",
+   "note": "",
+   "firstPrice": 4.19,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "prodesco-8349",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "8349",
+   "name": "Salsa chili dulce Aroy 720 ml",
+   "priceUnit": "€/botella",
+   "price": 3.11,
+   "discount": 0.0,
+   "date": "2026-04-16",
+   "note": "",
+   "firstPrice": 3.11,
+   "firstDate": "2026-03-24"
+  },
+  {
+   "id": "prodesco-515",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "515",
+   "name": "Pan bao Wanrun 30 g (20 ud)",
+   "priceUnit": "€/bolsa",
+   "price": 5.47,
+   "discount": 0.0,
+   "date": "2026-06-04",
+   "note": "",
+   "firstPrice": 5.47,
+   "firstDate": "2026-03-05"
+  },
+  {
+   "id": "prodesco-2041",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "2041",
+   "name": "Croqueta jamón ibérico Deliplat 50 g (1 kg)",
+   "priceUnit": "€/bolsa",
+   "price": 10.95,
+   "discount": 0.0,
+   "date": "2026-04-16",
+   "note": "",
+   "firstPrice": 10.95,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "prodesco-30834",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "30834",
+   "name": "Salsa barbacoa whisky Heinz 2 L",
+   "priceUnit": "€/bidón",
+   "price": 13.65,
+   "discount": 0.0,
+   "date": "2026-07-14",
+   "note": "Devuelta en julio",
+   "firstPrice": 13.65,
+   "firstDate": "2026-03-05"
+  },
+  {
+   "id": "prodesco-totopo-mission-450-g",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Totopo Mission 450 g",
+   "priceUnit": "€/bolsa",
+   "price": 2.39,
+   "discount": 0.0,
+   "date": "2026-09-21",
+   "note": "",
+   "firstPrice": 2.39,
+   "firstDate": "2026-08-25"
+  },
+  {
+   "id": "prodesco-277",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "277",
+   "name": "Salsa hoisin LKK 397 g",
+   "priceUnit": "€/tarro",
+   "price": 3.18,
+   "discount": 0.0,
+   "date": "2026-04-16",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "prodesco-3639",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "3639",
+   "name": "Croqueta puchero Deliplat (1 kg)",
+   "priceUnit": "€/bolsa",
+   "price": 10.95,
+   "discount": 0.0,
+   "date": "2026-05-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "prodesco-4921",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "4921",
+   "name": "Croqueta chuleta de vaca Deliplat (1 kg)",
+   "priceUnit": "€/bolsa",
+   "price": 5.99,
+   "discount": 0.0,
+   "date": "2026-05-14",
+   "note": "Precio anormalmente bajo: verificar",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "prodesco-1232",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "1232",
+   "name": "Aceite soja y sésamo 2 L",
+   "priceUnit": "€/botella",
+   "price": 14.55,
+   "discount": 0.0,
+   "date": "2026-03-31",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "prodesco-30816",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "30816",
+   "name": "Salsa gochujang Wang 1 kg",
+   "priceUnit": "€/bote",
+   "price": 7.45,
+   "discount": 0.0,
+   "date": "2026-04-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "prodesco-30695",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "30695",
+   "name": "Pasta tahina Libano Foods 908 g",
+   "priceUnit": "€/bote",
+   "price": 8.14,
+   "discount": 0.0,
+   "date": "2026-05-05",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "prodesco-8555",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "8555",
+   "name": "Pasta miso blanco Marukome 1 kg",
+   "priceUnit": "€/bolsa",
+   "price": 4.25,
+   "discount": 0.0,
+   "date": "2026-06-18",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "prodesco-5410",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "5410",
+   "name": "Vinagre de sidra 1 L",
+   "priceUnit": "€/botella",
+   "price": 1.15,
+   "discount": 0.0,
+   "date": "2026-05-12",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "prodesco-1630",
+   "supplierId": "prodesco",
+   "category": "Alimentación",
+   "code": "1630",
+   "name": "Vinagre de arroz 600 ml",
+   "priceUnit": "€/botella",
+   "price": 1.9,
+   "discount": 0.0,
+   "date": "2026-05-26",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "tgt-quesos-005205",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "005205",
+   "name": "Tarta queso postre Lola plancha",
+   "priceUnit": "€/kg",
+   "price": 9.42,
+   "discount": 0.0,
+   "date": "2026-06-25",
+   "note": "Subió 19/02",
+   "firstPrice": 8.58,
+   "firstDate": "2026-01-15"
+  },
+  {
+   "id": "tgt-quesos-005928",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "005928",
+   "name": "Rulo de cabra 1 kg",
+   "priceUnit": "€/kg",
+   "price": 9.08,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "Subió 18/05",
+   "firstPrice": 8.9,
+   "firstDate": "2026-01-15"
+  },
+  {
+   "id": "tgt-quesos-015353",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "015353",
+   "name": "Rallado Granello 1 kg",
+   "priceUnit": "€/kg",
+   "price": 9.94,
+   "discount": 0.0,
+   "date": "2026-07-23",
+   "note": "",
+   "firstPrice": 10.68,
+   "firstDate": "2026-01-29"
+  },
+  {
+   "id": "tgt-quesos-011176",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "011176",
+   "name": "Queso Edam en lonchas 1 kg",
+   "priceUnit": "€/ud",
+   "price": 6.07,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 7.1,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "tgt-quesos-000096",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "000096",
+   "name": "Ronkari D.O.",
+   "priceUnit": "€/kg",
+   "price": 19.25,
+   "discount": 0.0,
+   "date": "2026-07-30",
+   "note": "",
+   "firstPrice": 19.25,
+   "firstDate": "2026-01-15"
+  },
+  {
+   "id": "tgt-quesos-005285",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "005285",
+   "name": "Azul La Fueya 2 leches",
+   "priceUnit": "€/kg",
+   "price": 11.86,
+   "discount": 0.0,
+   "date": "2026-08-06",
+   "note": "",
+   "firstPrice": 11.86,
+   "firstDate": "2026-01-15"
+  },
+  {
+   "id": "tgt-quesos-006132",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "006132",
+   "name": "Scamorza ahumada 1 kg",
+   "priceUnit": "€/kg",
+   "price": 11.55,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 11.55,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "tgt-quesos-008857",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "008857",
+   "name": "Provolone sin cuerda",
+   "priceUnit": "€/kg",
+   "price": 10.96,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 10.96,
+   "firstDate": "2026-02-26"
+  },
+  {
+   "id": "tgt-quesos-011066",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "011066",
+   "name": "Cheddar color en lonchas 1 kg",
+   "priceUnit": "€/ud",
+   "price": 8.68,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 8.68,
+   "firstDate": "2026-01-15"
+  },
+  {
+   "id": "tgt-quesos-016430",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "016430",
+   "name": "Mozzarella Bianca 100 % hilo 1,5 kg",
+   "priceUnit": "€/kg",
+   "price": 6.37,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 6.37,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "tgt-quesos-009965",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "009965",
+   "name": "Cremette 30 % MG cubo 3,5 kg",
+   "priceUnit": "€/kg",
+   "price": 6.15,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 6.15,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "tgt-quesos-087306",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "087306",
+   "name": "Crema de camembert 500 g",
+   "priceUnit": "€/ud",
+   "price": 4.35,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 4.35,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "tgt-quesos-054059",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "054059",
+   "name": "Crema agria Oldenburger 1 L",
+   "priceUnit": "€/ud",
+   "price": 4.23,
+   "discount": 0.0,
+   "date": "2026-07-30",
+   "note": "",
+   "firstPrice": 4.23,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "tgt-quesos-016823",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "016823",
+   "name": "Rallado hilo 4 quesos 1 kg",
+   "priceUnit": "€/kg",
+   "price": 8.71,
+   "discount": 0.0,
+   "date": "2026-04-23",
+   "note": "Sustituido por rallado mix 3 quesos",
+   "firstPrice": 8.71,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "tgt-quesos-014079",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "014079",
+   "name": "Rallado mix 3 quesos CGM 1,5 kg",
+   "priceUnit": "€/kg",
+   "price": 6.65,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "Sustituto del 4 quesos: −23,7 % por kg",
+   "firstPrice": 6.65,
+   "firstDate": "2026-04-30"
+  },
+  {
+   "id": "tgt-quesos-018777",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "018777",
+   "name": "Burrata Bianca 150 g",
+   "priceUnit": "€/ud",
+   "price": 2.14,
+   "discount": 0.0,
+   "date": "2026-03-12",
+   "note": "Sustituida por Zanetti 100 g",
+   "firstPrice": 2.14,
+   "firstDate": "2026-01-29"
+  },
+  {
+   "id": "tgt-quesos-016384",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "016384",
+   "name": "Burrata Zanetti 100 g",
+   "priceUnit": "€/ud",
+   "price": 1.52,
+   "discount": 0.0,
+   "date": "2026-06-11",
+   "note": "+6,5 % por kg vs Bianca 150 g; 50 g menos por pieza",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "tgt-quesos-009013",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "009013",
+   "name": "Mozzarella rallada neutra 2 kg",
+   "priceUnit": "€/kg",
+   "price": 6.57,
+   "discount": 0.0,
+   "date": "2026-05-18",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "tgt-quesos-011061",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "011061",
+   "name": "Lonchas tipo cheddar fundido 1 kg",
+   "priceUnit": "€/ud",
+   "price": 7.1,
+   "discount": 0.0,
+   "date": "2026-01-22",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "tgt-quesos-008853",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "008853",
+   "name": "Provolone pancetta",
+   "priceUnit": "€/kg",
+   "price": 10.96,
+   "discount": 0.0,
+   "date": "2026-01-29",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "tgt-quesos-017836",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "017836",
+   "name": "Tarta queso Lola 900 g",
+   "priceUnit": "€/ud",
+   "price": 8.37,
+   "discount": 0.0,
+   "date": "2026-02-19",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "tgt-quesos-018130",
+   "supplierId": "tgt",
+   "category": "Quesos/Lácteos",
+   "code": "018130",
+   "name": "Tomino parrilla 2×90 g",
+   "priceUnit": "€/ud",
+   "price": 2.31,
+   "discount": 0.0,
+   "date": "2026-04-30",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "garcia-molinero-abanico-iberico-extra",
+   "supplierId": "garcia-molinero",
+   "category": "Carnes",
+   "code": "",
+   "name": "Abanico ibérico extra",
+   "priceUnit": "€/kg",
+   "price": 18.55,
+   "discount": 0.085,
+   "date": "2026-07-30",
+   "note": "Precio de tarifa (PVP); el neto varía por albarán; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 20.2,
+   "firstDate": "2026-01-16"
+  },
+  {
+   "id": "garcia-molinero-pulpo-cocido-patas",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Pulpo cocido patas",
+   "priceUnit": "€/kg",
+   "price": 36.0,
+   "discount": 0.085,
+   "date": "2026-08-28",
+   "note": "Calibre bajó de 400+ a 300/400 el 22/04 al mismo precio; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 36.0,
+   "firstDate": "2026-01-15"
+  },
+  {
+   "id": "garcia-molinero-lagrima-lagartito-iberica",
+   "supplierId": "garcia-molinero",
+   "category": "Carnes",
+   "code": "",
+   "name": "Lágrima (lagartito) ibérica",
+   "priceUnit": "€/kg",
+   "price": 14.5,
+   "discount": 0.085,
+   "date": "2026-08-28",
+   "note": "Precio de tarifa (PVP); el neto varía por albarán; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 14.5,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "garcia-molinero-boletus-troceado-extra",
+   "supplierId": "garcia-molinero",
+   "category": "Verdura/Setas",
+   "code": "",
+   "name": "Boletus troceado extra",
+   "priceUnit": "€/kg",
+   "price": 12.67,
+   "discount": 0.085,
+   "date": "2026-08-28",
+   "note": "Precio de tarifa (PVP); el neto varía por albarán; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 12.67,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "garcia-molinero-jalapeno-snack-crema",
+   "supplierId": "garcia-molinero",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Jalapeño snack crema",
+   "priceUnit": "€/kg",
+   "price": 8.8,
+   "discount": 0.0,
+   "date": "2026-07-30",
+   "note": "Subió 26/02; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 8.3,
+   "firstDate": "2026-01-20",
+   "netPrice": 8.18
+  },
+  {
+   "id": "garcia-molinero-mac-cheese-25-g",
+   "supplierId": "garcia-molinero",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Mac & cheese 25 g",
+   "priceUnit": "€/kg",
+   "price": 6.75,
+   "discount": 0.085,
+   "date": "2026-08-06",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 6.75,
+   "firstDate": "2026-01-29"
+  },
+  {
+   "id": "garcia-molinero-alas-de-pollo-bbq",
+   "supplierId": "garcia-molinero",
+   "category": "Carnes",
+   "code": "",
+   "name": "Alas de pollo BBQ",
+   "priceUnit": "€/kg",
+   "price": 4.89,
+   "discount": 0.0,
+   "date": "2026-07-09",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 4.89,
+   "firstDate": "2026-01-20",
+   "netPrice": 4.55
+  },
+  {
+   "id": "garcia-molinero-shiitake-entero",
+   "supplierId": "garcia-molinero",
+   "category": "Verdura/Setas",
+   "code": "",
+   "name": "Shiitake entero",
+   "priceUnit": "€/kg",
+   "price": 4.42,
+   "discount": 0.085,
+   "date": "2026-08-28",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 4.42,
+   "firstDate": "2026-02-12"
+  },
+  {
+   "id": "garcia-molinero-nacho-guacamole-y-queso",
+   "supplierId": "garcia-molinero",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Nacho guacamole y queso",
+   "priceUnit": "€/kg",
+   "price": 10.18,
+   "discount": 0.085,
+   "date": "2026-08-28",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 10.18,
+   "firstDate": "2026-06-11"
+  },
+  {
+   "id": "garcia-molinero-aguacate-en-mitades",
+   "supplierId": "garcia-molinero",
+   "category": "Verdura/Setas",
+   "code": "",
+   "name": "Aguacate en mitades",
+   "priceUnit": "€/kg",
+   "price": 6.15,
+   "discount": 0.0,
+   "date": "2026-08-06",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 6.15,
+   "firstDate": "2026-04-08",
+   "netPrice": 5.72
+  },
+  {
+   "id": "garcia-molinero-raba-de-calamar-priela",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Raba de calamar Priela",
+   "priceUnit": "€/kg",
+   "price": 7.95,
+   "discount": 0.085,
+   "date": "2026-08-28",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 8.72,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "garcia-molinero-caprichos-romana-calamar",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Caprichos romana (calamar)",
+   "priceUnit": "€/kg",
+   "price": 3.75,
+   "discount": 0.085,
+   "date": "2026-08-06",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 3.75,
+   "firstDate": "2026-04-09"
+  },
+  {
+   "id": "garcia-molinero-tortita-de-camaron-artesana",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Tortita de camarón artesana",
+   "priceUnit": "€/kg",
+   "price": 7.2,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "Subió en junio; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 6.8,
+   "firstDate": "2026-03-04",
+   "netPrice": 6.7
+  },
+  {
+   "id": "garcia-molinero-muslito-de-cangrejo",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Muslito de cangrejo",
+   "priceUnit": "€/kg",
+   "price": 5.75,
+   "discount": 0.085,
+   "date": "2026-07-30",
+   "note": "Cambio Altamar → Delfin; sin compras en ago; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 5.2,
+   "firstDate": "2026-06-03"
+  },
+  {
+   "id": "garcia-molinero-cazon-adobado-enharinado",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Cazón adobado enharinado",
+   "priceUnit": "€/ración",
+   "price": 4.16,
+   "discount": 0.085,
+   "date": "2026-08-06",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 3.92,
+   "firstDate": "2026-03-05"
+  },
+  {
+   "id": "garcia-molinero-nuggets-pollo-cornflakes",
+   "supplierId": "garcia-molinero",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Nuggets pollo cornflakes",
+   "priceUnit": "€/kg",
+   "price": 6.4,
+   "discount": 0.0,
+   "date": "2026-08-06",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 6.4,
+   "firstDate": "2026-05-07",
+   "netPrice": 5.95
+  },
+  {
+   "id": "garcia-molinero-boqueron-gordo-35-45",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Boquerón gordo 35/45",
+   "priceUnit": "€/kg",
+   "price": 4.85,
+   "discount": 0.085,
+   "date": "2026-07-09",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 4.85,
+   "firstDate": "2026-06-03"
+  },
+  {
+   "id": "garcia-molinero-mejillon-media-concha",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Mejillón media concha",
+   "priceUnit": "€/kg",
+   "price": 9.4,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 9.4,
+   "firstDate": "2026-07-16",
+   "netPrice": 7.99
+  },
+  {
+   "id": "garcia-molinero-albondigas-burger-meat-balls",
+   "supplierId": "garcia-molinero",
+   "category": "Carnes",
+   "code": "",
+   "name": "Albóndigas burger meat balls",
+   "priceUnit": "€/kg",
+   "price": 7.1,
+   "discount": 0.085,
+   "date": "2026-05-20",
+   "note": "Sin compras desde mayo; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 6.27,
+   "firstDate": "2026-01-15"
+  },
+  {
+   "id": "garcia-molinero-estofado-de-cerdo-magro",
+   "supplierId": "garcia-molinero",
+   "category": "Carnes",
+   "code": "",
+   "name": "Estofado de cerdo (magro)",
+   "priceUnit": "€/kg",
+   "price": 4.75,
+   "discount": 0.0,
+   "date": "2026-05-26",
+   "note": "4,50 en mar–abr; sin compras desde mayo; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 4.9,
+   "firstDate": "2026-02-04",
+   "netPrice": 4.42
+  },
+  {
+   "id": "garcia-molinero-pollo-troceado",
+   "supplierId": "garcia-molinero",
+   "category": "Carnes",
+   "code": "",
+   "name": "Pollo troceado",
+   "priceUnit": "€/kg",
+   "price": 4.19,
+   "discount": 0.0,
+   "date": "2026-05-13",
+   "note": "Sin compras desde mayo; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 4.19,
+   "firstDate": "2026-01-20",
+   "netPrice": 3.72
+  },
+  {
+   "id": "garcia-molinero-carrillada-porcino",
+   "supplierId": "garcia-molinero",
+   "category": "Carnes",
+   "code": "",
+   "name": "Carrillada porcino",
+   "priceUnit": "€/kg",
+   "price": 8.41,
+   "discount": 0.085,
+   "date": "2026-04-29",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 8.73,
+   "firstDate": "2026-02-09"
+  },
+  {
+   "id": "garcia-molinero-bacalao-lomo-colosal-900",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Bacalao lomo colosal 900+",
+   "priceUnit": "€/kg neto",
+   "price": 22.1,
+   "discount": 0.085,
+   "date": "2026-05-14",
+   "note": "Sustituido por lomo centro Asberg; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 19.0,
+   "firstDate": "2026-01-15"
+  },
+  {
+   "id": "garcia-molinero-bacalao-lomo-centro-asberg",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Bacalao lomo centro Asberg",
+   "priceUnit": "€/kg neto",
+   "price": 15.0,
+   "discount": 0.085,
+   "date": "2026-05-28",
+   "note": "Sin compras desde mayo; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 15.0,
+   "firstDate": "2026-04-13"
+  },
+  {
+   "id": "garcia-molinero-poton-rebozado-tipo-sepia",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Potón rebozado tipo sepia",
+   "priceUnit": "€/kg",
+   "price": 7.65,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 8.55,
+   "firstDate": "2026-01-29",
+   "netPrice": 7.11
+  },
+  {
+   "id": "garcia-molinero-croqueta-meson-rabo-de-toro-4500-g",
+   "supplierId": "garcia-molinero",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Croqueta mesón rabo de toro (4×500 g)",
+   "priceUnit": "€/bolsa 500 g",
+   "price": 5.94,
+   "discount": 0.0,
+   "date": "2026-05-28",
+   "note": "Rabo de toro real; Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 5.7,
+   "firstDate": "2026-01-15",
+   "netPrice": 5.53
+  },
+  {
+   "id": "garcia-molinero-croquemoli-jamon-iberico",
+   "supplierId": "garcia-molinero",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Croquemoli jamón ibérico",
+   "priceUnit": "€/bolsa",
+   "price": 8.45,
+   "discount": 0.085,
+   "date": "2026-06-25",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 8.45,
+   "firstDate": "2026-03-18"
+  },
+  {
+   "id": "garcia-molinero-bizcocho-borracho-estuche-12",
+   "supplierId": "garcia-molinero",
+   "category": "Postres",
+   "code": "",
+   "name": "Bizcocho borracho (estuche 12)",
+   "priceUnit": "€/estuche",
+   "price": 5.08,
+   "discount": 0.085,
+   "date": "2026-05-20",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 5.08,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "garcia-molinero-tarta-de-manzana-rectangular-1-8-kg",
+   "supplierId": "garcia-molinero",
+   "category": "Postres",
+   "code": "",
+   "name": "Tarta de manzana rectangular 1,8 kg",
+   "priceUnit": "€/ud",
+   "price": 11.4,
+   "discount": 0.085,
+   "date": "2026-05-28",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 11.4,
+   "firstDate": "2026-01-29"
+  },
+  {
+   "id": "garcia-molinero-atun-en-aceite-astor-1-kg",
+   "supplierId": "garcia-molinero",
+   "category": "Otros",
+   "code": "",
+   "name": "Atún en aceite Astor 1 kg",
+   "priceUnit": "€/bolsa",
+   "price": 7.3,
+   "discount": 0.085,
+   "date": "2026-06-01",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 7.3,
+   "firstDate": "2025-12-30"
+  },
+  {
+   "id": "garcia-molinero-ken-gourmet-duo-1-l",
+   "supplierId": "garcia-molinero",
+   "category": "Otros",
+   "code": "",
+   "name": "Ken Gourmet Duo 1 L",
+   "priceUnit": "€/brik",
+   "price": 4.4,
+   "discount": 0.085,
+   "date": "2026-05-28",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": 4.4,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "garcia-molinero-croqueta-gastrobar-iberica-12-ud",
+   "supplierId": "garcia-molinero",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Croqueta gastrobar ibérica (12 ud)",
+   "priceUnit": "€/estuche",
+   "price": 8.38,
+   "discount": 0.085,
+   "date": "2026-01-15",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "garcia-molinero-alcachofa-flor-confitada-extra",
+   "supplierId": "garcia-molinero",
+   "category": "Verdura/Setas",
+   "code": "",
+   "name": "Alcachofa flor confitada extra",
+   "priceUnit": "€/bandeja",
+   "price": 13.9,
+   "discount": 0.085,
+   "date": "2026-01-22",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "garcia-molinero-mezcla-setas-con-boletus",
+   "supplierId": "garcia-molinero",
+   "category": "Verdura/Setas",
+   "code": "",
+   "name": "Mezcla setas con boletus",
+   "priceUnit": "€/kg",
+   "price": 4.5,
+   "discount": 0.085,
+   "date": "2026-02-04",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "garcia-molinero-secreto-de-cerdo",
+   "supplierId": "garcia-molinero",
+   "category": "Carnes",
+   "code": "",
+   "name": "Secreto de cerdo",
+   "priceUnit": "€/kg",
+   "price": 6.68,
+   "discount": 0.085,
+   "date": "2026-04-29",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "garcia-molinero-tronquito-de-mar-surimi",
+   "supplierId": "garcia-molinero",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Tronquito de mar (surimi)",
+   "priceUnit": "€/estuche",
+   "price": 4.08,
+   "discount": 0.085,
+   "date": "2026-06-03",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "garcia-molinero-flamenquin-mini",
+   "supplierId": "garcia-molinero",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Flamenquín mini",
+   "priceUnit": "€/kg",
+   "price": 4.45,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "Precio de tarifa; neto real con descuento variable (~8 %)",
+   "firstPrice": null,
+   "firstDate": null,
+   "netPrice": 3.85
+  },
+  {
+   "id": "temas-de-higiene-servilleta-2020-negra-tissu-2-capas-caja-2-400",
+   "supplierId": "temas-de-higiene",
+   "category": "Desechables",
+   "code": "",
+   "name": "Servilleta 20×20 negra tissú 2 capas (caja 2.400)",
+   "priceUnit": "€/caja",
+   "price": 24.5,
+   "discount": 0.0,
+   "date": "2026-07-15",
+   "note": "Sin factura de agosto en Drive",
+   "firstPrice": 24.5,
+   "firstDate": "2026-02-15"
+  },
+  {
+   "id": "temas-de-higiene-servilleta-4040-negra-punta-punta-caja-1-200",
+   "supplierId": "temas-de-higiene",
+   "category": "Desechables",
+   "code": "",
+   "name": "Servilleta 40×40 negra punta-punta (caja 1.200)",
+   "priceUnit": "€/caja",
+   "price": 38.1,
+   "discount": 0.0,
+   "date": "2026-07-15",
+   "note": "Cambio Pajarita → GdP en mayo; gramaje no indicado",
+   "firstPrice": 38.1,
+   "firstDate": "2026-02-15"
+  },
+  {
+   "id": "alcarria-hosteleria-4206",
+   "supplierId": "alcarria-hosteleria",
+   "category": "Limpieza/Higiene",
+   "code": "4206",
+   "name": "Detergente lavavajillas máquina Pool 10 L",
+   "priceUnit": "€/garrafa",
+   "price": 15.312,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "",
+   "firstPrice": 15.312,
+   "firstDate": "2026-01-15"
+  },
+  {
+   "id": "alcarria-hosteleria-3722",
+   "supplierId": "alcarria-hosteleria",
+   "category": "Limpieza/Higiene",
+   "code": "3722",
+   "name": "Desengrasante Degrass D-50 4,7 kg",
+   "priceUnit": "€/ud",
+   "price": 24.443,
+   "discount": 0.0,
+   "date": "2026-07-15",
+   "note": "Dos precios distintos en la misma factura de julio",
+   "firstPrice": 23.804,
+   "firstDate": "2026-01-15"
+  },
+  {
+   "id": "alcarria-hosteleria-18206",
+   "supplierId": "alcarria-hosteleria",
+   "category": "Desechables",
+   "code": "18206",
+   "name": "Bolsa de vacío 30×40 (paq. 100)",
+   "priceUnit": "€/paquete",
+   "price": 31.591,
+   "discount": 0.0,
+   "date": "2026-07-15",
+   "note": "",
+   "firstPrice": 27.46,
+   "firstDate": "2026-01-15"
+  },
+  {
+   "id": "alcarria-hosteleria-3845",
+   "supplierId": "alcarria-hosteleria",
+   "category": "Limpieza/Higiene",
+   "code": "3845",
+   "name": "Rollo 10 paños Roll-Drap",
+   "priceUnit": "€/ud",
+   "price": 31.02,
+   "discount": 0.0,
+   "date": "2026-01-15",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "alcarria-hosteleria-4285",
+   "supplierId": "alcarria-hosteleria",
+   "category": "Limpieza/Higiene",
+   "code": "4285",
+   "name": "Abrillantador Master-box D-900 5 L",
+   "priceUnit": "€/ud",
+   "price": 61.055,
+   "discount": 0.0,
+   "date": "2026-01-15",
+   "note": "Sustituido por Crisolbrill",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "alcarria-hosteleria-abrillantador-crisolbrill-10-kg",
+   "supplierId": "alcarria-hosteleria",
+   "category": "Limpieza/Higiene",
+   "code": "",
+   "name": "Abrillantador Crisolbrill 10 kg",
+   "priceUnit": "€/ud",
+   "price": 24.853,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Producto distinto al D-900: no comparable",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-bocadito-de-cheddar-y-jalapeno",
+   "supplierId": "ehosa",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Bocadito de cheddar y jalapeño",
+   "priceUnit": "€ (unidad por confirmar)",
+   "price": 6.87,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "Confirmar si es €/kg o €/caja",
+   "firstPrice": 6.87,
+   "firstDate": "2026-04-07"
+  },
+  {
+   "id": "frutero-frutas-tellez-naranja",
+   "supplierId": "frutas-tellez",
+   "category": "Fruta/Verdura",
+   "code": "",
+   "name": "Naranja",
+   "priceUnit": "€/kg",
+   "price": 0.8,
+   "discount": 0.0,
+   "date": "2026-07-03",
+   "note": "Una sola factura revisada",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "frutero-frutas-tellez-lechuga-en-bolsa",
+   "supplierId": "frutas-tellez",
+   "category": "Fruta/Verdura",
+   "code": "",
+   "name": "Lechuga en bolsa",
+   "priceUnit": "€/ud",
+   "price": 1.45,
+   "discount": 0.0,
+   "date": "2026-07-03",
+   "note": "Una sola factura revisada",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "frutero-frutas-tellez-manzana-golden",
+   "supplierId": "frutas-tellez",
+   "category": "Fruta/Verdura",
+   "code": "",
+   "name": "Manzana golden",
+   "priceUnit": "€/kg",
+   "price": 1.85,
+   "discount": 0.0,
+   "date": "2026-07-03",
+   "note": "Una sola factura revisada",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-pechuga-de-pollo-bolsa",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Pechuga de pollo (bolsa)",
+   "priceUnit": "€/kg",
+   "price": 5.7,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "Bolsa pasó de 2,5 kg a 1,9 kg",
+   "firstPrice": 5.49,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "makro-secreto-de-cerdo",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Secreto de cerdo",
+   "priceUnit": "€/kg",
+   "price": 5.15,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 5.5,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "makro-cinta-de-lomo-de-cerdo",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Cinta de lomo de cerdo",
+   "priceUnit": "€/kg",
+   "price": 4.15,
+   "discount": 0.0,
+   "date": "2026-07-31",
+   "note": "",
+   "firstPrice": 4.3,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "makro-carne-picada-vacuno-congelada",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Carne picada vacuno congelada",
+   "priceUnit": "€/kg",
+   "price": 9.09,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 8.9,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "makro-chistorra",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Chistorra",
+   "priceUnit": "€/kg",
+   "price": 7.49,
+   "discount": 0.0,
+   "date": "2026-07-31",
+   "note": "Alicentro la vende a 6,90",
+   "firstPrice": 7.49,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "makro-bacon-ahumado-loncheado-500-g",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Bacon ahumado loncheado 500 g",
+   "priceUnit": "€/bandeja",
+   "price": 4.53,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 4.53,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "makro-pan-rallado-5-kg",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Pan rallado 5 kg",
+   "priceUnit": "€/bolsa",
+   "price": 5.95,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 5.35,
+   "firstDate": "2026-01-20"
+  },
+  {
+   "id": "makro-tequenos-de-queso-p-a-n-2-4-kg-60-ud",
+   "supplierId": "makro",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Tequeños de queso P.A.N. 2,4 kg (60 ud)",
+   "priceUnit": "€/caja",
+   "price": 23.29,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "+5,9 % en un mes",
+   "firstPrice": 21.99,
+   "firstDate": "2026-07-31"
+  },
+  {
+   "id": "makro-tomate-cherokee-g-gg-caja-3-kg",
+   "supplierId": "makro",
+   "category": "Fruta/Verdura",
+   "code": "",
+   "name": "Tomate cherokee G/GG caja 3 kg",
+   "priceUnit": "€/caja",
+   "price": 12.9,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 13.99,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "makro-micromezclum-250-g",
+   "supplierId": "makro",
+   "category": "Fruta/Verdura",
+   "code": "",
+   "name": "Micromezclum 250 g",
+   "priceUnit": "€/bandeja",
+   "price": 12.99,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 12.95,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "makro-azucar-blanco-101-kg",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Azúcar blanco 10×1 kg",
+   "priceUnit": "€/pack",
+   "price": 8.2,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 8.2,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "makro-salsa-tartufata-500-g",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Salsa tartufata 500 g",
+   "priceUnit": "€/frasco",
+   "price": 10.9,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 10.9,
+   "firstDate": "2026-01-27"
+  },
+  {
+   "id": "makro-helado-vainilla-2-5-l",
+   "supplierId": "makro",
+   "category": "Postres",
+   "code": "",
+   "name": "Helado vainilla 2,5 L",
+   "priceUnit": "€/ud",
+   "price": 4.99,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 4.99,
+   "firstDate": "2026-07-31"
+  },
+  {
+   "id": "makro-patata-steakhouse-2-5-kg",
+   "supplierId": "makro",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Patata steakhouse 2,5 kg",
+   "priceUnit": "€/bolsa",
+   "price": 4.4,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 4.4,
+   "firstDate": "2026-07-31"
+  },
+  {
+   "id": "makro-mango-en-cubos-1-kg",
+   "supplierId": "makro",
+   "category": "Fruta/Verdura",
+   "code": "",
+   "name": "Mango en cubos 1 kg",
+   "priceUnit": "€/bolsa",
+   "price": 4.99,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 4.99,
+   "firstDate": "2026-07-31"
+  },
+  {
+   "id": "makro-vaso-sidra-50-cl-12-ud",
+   "supplierId": "makro",
+   "category": "Desechables",
+   "code": "",
+   "name": "Vaso sidra 50 cl (12 ud)",
+   "priceUnit": "€/caja",
+   "price": 6.0,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 6.0,
+   "firstDate": "2026-07-31"
+  },
+  {
+   "id": "makro-vaso-country-36-cl-6-ud",
+   "supplierId": "makro",
+   "category": "Desechables",
+   "code": "",
+   "name": "Vaso country 36 cl (6 ud)",
+   "priceUnit": "€/caja",
+   "price": 5.19,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 5.18,
+   "firstDate": "2026-07-31"
+  },
+  {
+   "id": "makro-lomo-bajo-de-vaca-congelado",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Lomo bajo de vaca congelado",
+   "priceUnit": "€/kg",
+   "price": 12.95,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-recortes-salmon-ahumado-750-g",
+   "supplierId": "makro",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Recortes salmón ahumado 750 g",
+   "priceUnit": "€/bolsa",
+   "price": 15.31,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-berberechos-35-45-pack-3-latas",
+   "supplierId": "makro",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Berberechos 35/45 (pack 3 latas)",
+   "priceUnit": "€/pack",
+   "price": 17.9,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "Solum Pars: berberecho Baymar 6,97/lata",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-aceite-de-oliva-0-4o-5-l",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Aceite de oliva 0,4º 5 L",
+   "priceUnit": "€/bidón",
+   "price": 17.93,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-mantequilla-tarrina-8-g-100-ud",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Mantequilla tarrina 8 g (100 ud)",
+   "priceUnit": "€/caja",
+   "price": 9.9,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-tomate-deshidratado-en-aceite-600-g",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Tomate deshidratado en aceite 600 g",
+   "priceUnit": "€/frasco",
+   "price": 8.33,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-nachos-triangulo-mexifoods-500-g",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Nachos triángulo Mexifoods 500 g",
+   "priceUnit": "€/bolsa",
+   "price": 3.9,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "Albe: 450 g a 1,91 neto",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-higado-de-pato-extra-450-g",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Hígado de pato extra 450 g",
+   "priceUnit": "€/pieza",
+   "price": 18.98,
+   "discount": 0.0,
+   "date": "2026-07-31",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-jamon-medio-centro-curado",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Jamón medio centro curado",
+   "priceUnit": "€/kg",
+   "price": 10.45,
+   "discount": 0.0,
+   "date": "2026-01-20",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-panceta-en-filetes",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Panceta en filetes",
+   "priceUnit": "€/kg",
+   "price": 6.49,
+   "discount": 0.0,
+   "date": "2026-01-20",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-chorizo-criollo",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Chorizo criollo",
+   "priceUnit": "€/kg",
+   "price": 7.35,
+   "discount": 0.0,
+   "date": "2026-01-20",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-cecina-taco",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Cecina taco",
+   "priceUnit": "€/kg",
+   "price": 28.75,
+   "discount": 0.0,
+   "date": "2026-01-27",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-bacon-ahumado-pieza",
+   "supplierId": "makro",
+   "category": "Carnes",
+   "code": "",
+   "name": "Bacon ahumado pieza",
+   "priceUnit": "€/kg",
+   "price": 6.04,
+   "discount": 0.0,
+   "date": "2026-01-20",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-anchoa-filete-aceite-lata-600-g",
+   "supplierId": "makro",
+   "category": "Pescado/Marisco",
+   "code": "",
+   "name": "Anchoa filete aceite lata 600 g",
+   "priceUnit": "€/lata",
+   "price": 14.9,
+   "discount": 0.0,
+   "date": "2026-01-27",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-pesto-gia-650-g",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Pesto Gia 650 g",
+   "priceUnit": "€/frasco",
+   "price": 8.45,
+   "discount": 0.0,
+   "date": "2026-01-27",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-tomate-triturado-lata-4-kg",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Tomate triturado lata 4 kg",
+   "priceUnit": "€/lata",
+   "price": 5.1,
+   "discount": 0.0,
+   "date": "2026-01-27",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-arroz-extra-5-kg",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Arroz extra 5 kg",
+   "priceUnit": "€/bolsa",
+   "price": 7.8,
+   "discount": 0.0,
+   "date": "2026-01-20",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-leche-de-coco-aroy-d-1-l",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Leche de coco Aroy-D 1 L",
+   "priceUnit": "€/brik",
+   "price": 3.45,
+   "discount": 0.0,
+   "date": "2026-01-20",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-gochujang-sempio-500-g",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Gochujang Sempio 500 g",
+   "priceUnit": "€/bote",
+   "price": 4.86,
+   "discount": 0.0,
+   "date": "2026-01-20",
+   "note": "Prodesco: 1 kg a 7,45",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-miel-de-flores-500-g",
+   "supplierId": "makro",
+   "category": "Alimentación",
+   "code": "",
+   "name": "Miel de flores 500 g",
+   "priceUnit": "€/bote",
+   "price": 2.79,
+   "discount": 0.0,
+   "date": "2026-07-31",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "makro-pajitas-de-papel-250-ud",
+   "supplierId": "makro",
+   "category": "Desechables",
+   "code": "",
+   "name": "Pajitas de papel (250 ud)",
+   "priceUnit": "€/bolsa",
+   "price": 3.3,
+   "discount": 0.0,
+   "date": "2026-07-31",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "foster-food-40000352",
+   "supplierId": "foster-food",
+   "category": "Carnes",
+   "code": "40000352",
+   "name": "Costillar asado neutro (caja 10)",
+   "priceUnit": "€/caja",
+   "price": 69.33,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Subida lineal ~+2,6 % en febrero",
+   "firstPrice": 67.6,
+   "firstDate": "2026-01-16"
+  },
+  {
+   "id": "foster-food-40003051",
+   "supplierId": "foster-food",
+   "category": "Carnes",
+   "code": "40003051",
+   "name": "Royal Kentucky chicken (caja 4 bolsas)",
+   "priceUnit": "€/caja",
+   "price": 40.16,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "",
+   "firstPrice": 39.16,
+   "firstDate": "2026-01-18"
+  },
+  {
+   "id": "foster-food-40000896",
+   "supplierId": "foster-food",
+   "category": "Precocinados",
+   "code": "40000896",
+   "name": "Cebolla frita crujiente Kooking 1 kg",
+   "priceUnit": "€/bolsa",
+   "price": 8.67,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "",
+   "firstPrice": 8.45,
+   "firstDate": "2026-01-16"
+  },
+  {
+   "id": "foster-food-40001112",
+   "supplierId": "foster-food",
+   "category": "Alimentación",
+   "code": "40001112",
+   "name": "Mostaza miel cubo 1 kg",
+   "priceUnit": "€/cubo",
+   "price": 12.04,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "",
+   "firstPrice": 11.27,
+   "firstDate": "2026-01-18"
+  },
+  {
+   "id": "foster-food-40001420",
+   "supplierId": "foster-food",
+   "category": "Alimentación",
+   "code": "40001420",
+   "name": "Salsa tacos 2.300 ml",
+   "priceUnit": "€/bote",
+   "price": 14.95,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "",
+   "firstPrice": 14.58,
+   "firstDate": "2026-01-18"
+  },
+  {
+   "id": "foster-food-40001314",
+   "supplierId": "foster-food",
+   "category": "Alimentación",
+   "code": "40001314",
+   "name": "Polpa di pomodoro lata 2,5 kg",
+   "priceUnit": "€/lata",
+   "price": 5.76,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "foster-food-50000312",
+   "supplierId": "foster-food",
+   "category": "Panadería",
+   "code": "50000312",
+   "name": "Mini pan bao Asian Bites (caja 2 bolsas)",
+   "priceUnit": "€/caja",
+   "price": 19.69,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Prodesco: pan bao 20 ud a 5,47",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "foster-food-40001404",
+   "supplierId": "foster-food",
+   "category": "Panadería",
+   "code": "40001404",
+   "name": "Tortilla wrap 25 cm (caja 6 paq.)",
+   "priceUnit": "€/caja",
+   "price": 22.81,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "foster-food-40001400",
+   "supplierId": "foster-food",
+   "category": "Panadería",
+   "code": "40001400",
+   "name": "Tortilla wrap 12 cm (caja 20 bolsas)",
+   "priceUnit": "€/caja",
+   "price": 33.84,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "foster-food-40001128",
+   "supplierId": "foster-food",
+   "category": "Alimentación",
+   "code": "40001128",
+   "name": "Mahonesa de bacon 830 g",
+   "priceUnit": "€/bote",
+   "price": 9.03,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Tarifa sept 9,03; en febrero se facturó a 11,68: reclamar",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "foster-food-40001124",
+   "supplierId": "foster-food",
+   "category": "Alimentación",
+   "code": "40001124",
+   "name": "Ballymaloe steak sauce 960 ml",
+   "priceUnit": "€/botella",
+   "price": 19.86,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "alicentro-3711",
+   "supplierId": "alicentro",
+   "category": "Carnes",
+   "code": "3711",
+   "name": "Centro de jamón ibérico",
+   "priceUnit": "€/kg",
+   "price": 34.7,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 33.2,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "alicentro-6411",
+   "supplierId": "alicentro",
+   "category": "Quesos/Lácteos",
+   "code": "6411",
+   "name": "Rallado 3 quesos Bocatel",
+   "priceUnit": "€/kg",
+   "price": 6.95,
+   "discount": 0.0,
+   "date": "2026-02-19",
+   "note": "TGT: 3 quesos a 6,65",
+   "firstPrice": 7.0,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "alicentro-4135",
+   "supplierId": "alicentro",
+   "category": "Carnes",
+   "code": "4135",
+   "name": "Chistorra Ameskoa granel",
+   "priceUnit": "€/kg",
+   "price": 6.9,
+   "discount": 0.0,
+   "date": "2026-01-22",
+   "note": "Makro: 7,49",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "alicentro-4188",
+   "supplierId": "alicentro",
+   "category": "Carnes",
+   "code": "4188",
+   "name": "Lomo alto +6",
+   "priceUnit": "€/kg",
+   "price": 15.95,
+   "discount": 0.0,
+   "date": "2026-01-22",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "alicentro-4162",
+   "supplierId": "alicentro",
+   "category": "Carnes",
+   "code": "4162",
+   "name": "Lomo bajo +7 infiltrado",
+   "priceUnit": "€/kg",
+   "price": 15.95,
+   "discount": 0.0,
+   "date": "2026-01-22",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "alicentro-5384",
+   "supplierId": "alicentro",
+   "category": "Quesos/Lácteos",
+   "code": "5384",
+   "name": "Rulo mixto",
+   "priceUnit": "€/pieza",
+   "price": 8.55,
+   "discount": 0.0,
+   "date": "2026-02-19",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "alicentro-6562",
+   "supplierId": "alicentro",
+   "category": "Quesos/Lácteos",
+   "code": "6562",
+   "name": "Cheddar lonchas 1 kg",
+   "priceUnit": "€/ud",
+   "price": 7.93,
+   "discount": 0.0,
+   "date": "2026-02-19",
+   "note": "Albe 6,45 neto; TGT 8,68",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "alicentro-3316",
+   "supplierId": "alicentro",
+   "category": "Carnes",
+   "code": "3316",
+   "name": "Escámez pulido",
+   "priceUnit": "€/kg",
+   "price": 13.9,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "serpeska-h311379",
+   "supplierId": "serpeska",
+   "category": "Panadería",
+   "code": "H311379",
+   "name": "Focaccia larga rústica 436 g",
+   "priceUnit": "€/ud",
+   "price": 2.59,
+   "discount": 0.0,
+   "date": "2026-08-07",
+   "note": "",
+   "firstPrice": 2.51,
+   "firstDate": "2026-01-02"
+  },
+  {
+   "id": "serpeska-c500189",
+   "supplierId": "serpeska",
+   "category": "Pescado/Marisco",
+   "code": "C500189",
+   "name": "Anilla de calamar nacional con rejo",
+   "priceUnit": "€/kg",
+   "price": 12.5,
+   "discount": 0.0,
+   "date": "2026-08-07",
+   "note": "",
+   "firstPrice": 12.5,
+   "firstDate": "2026-01-23"
+  },
+  {
+   "id": "serpeska-c340249",
+   "supplierId": "serpeska",
+   "category": "Pescado/Marisco",
+   "code": "C340249",
+   "name": "Langostino austral 20/30",
+   "priceUnit": "€/kg",
+   "price": 9.8,
+   "discount": 0.0,
+   "date": "2026-01-23",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "mahou-m003",
+   "supplierId": "mahou",
+   "category": "Bebidas",
+   "code": "M003",
+   "name": "Barril Mahou Clásica 30 L (neto con dto)",
+   "priceUnit": "€/barril",
+   "price": 56.69,
+   "discount": 0.0,
+   "date": "2026-08-31",
+   "note": "Tarifa 113,37 con 50 % dto",
+   "firstPrice": 56.69,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "mahou-m014",
+   "supplierId": "mahou",
+   "category": "Bebidas",
+   "code": "M014",
+   "name": "Barril Mahou 0,0 Tostada 20 L (neto)",
+   "priceUnit": "€/barril",
+   "price": 52.95,
+   "discount": 0.0,
+   "date": "2026-08-31",
+   "note": "",
+   "firstPrice": 52.95,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "mahou-m033",
+   "supplierId": "mahou",
+   "category": "Bebidas",
+   "code": "M033",
+   "name": "Mahou Clásica 1/3 retornable (neto)",
+   "priceUnit": "€/caja",
+   "price": 28.07,
+   "discount": 0.0,
+   "date": "2026-08-31",
+   "note": "Tarifa 30,82",
+   "firstPrice": 28.07,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "mahou-m043",
+   "supplierId": "mahou",
+   "category": "Bebidas",
+   "code": "M043",
+   "name": "Mahou 5 Estrellas 1/3 retornable (neto)",
+   "priceUnit": "€/caja",
+   "price": 27.77,
+   "discount": 0.0,
+   "date": "2026-08-31",
+   "note": "Tarifa 31,27",
+   "firstPrice": 27.77,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "mahou-m017",
+   "supplierId": "mahou",
+   "category": "Bebidas",
+   "code": "M017",
+   "name": "Barril Mahou Maestra 30 L (neto)",
+   "priceUnit": "€/barril",
+   "price": 103.1,
+   "discount": 0.0,
+   "date": "2026-02-05",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "mahou-m031",
+   "supplierId": "mahou",
+   "category": "Bebidas",
+   "code": "M031",
+   "name": "Mahou Clásica 1/5 retornable (neto)",
+   "priceUnit": "€/caja",
+   "price": 18.55,
+   "discount": 0.0,
+   "date": "2026-02-12",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-13357",
+   "supplierId": "solum-pars",
+   "category": "Alimentación",
+   "code": "13357",
+   "name": "Aceituna Maestros lata 4,25 kg",
+   "priceUnit": "€/lata",
+   "price": 15.39,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 14.31,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-74080",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "74080",
+   "name": "Agua Solán vidrio 1 L (caja 12) – tarifa",
+   "priceUnit": "€/caja",
+   "price": 13.78,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "Con 50 % dto: 6,89",
+   "firstPrice": 13.068,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-74081",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "74081",
+   "name": "Agua Solán vidrio 50 cl – tarifa",
+   "priceUnit": "€/caja",
+   "price": 12.3,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "Con 50 % dto: 6,15",
+   "firstPrice": 11.68,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-777632",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "777632",
+   "name": "Agua Solán con gas 1/3 (24) – tarifa",
+   "priceUnit": "€/caja",
+   "price": 26.808,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "Con 20 % dto: 21,45",
+   "firstPrice": 25.464,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-1422",
+   "supplierId": "solum-pars",
+   "category": "Alimentación",
+   "code": "1422",
+   "name": "Atún escabeche Arroyabe",
+   "priceUnit": "€/ud",
+   "price": 20.9,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 20.9,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-9598",
+   "supplierId": "solum-pars",
+   "category": "Postres",
+   "code": "9598",
+   "name": "Galleta Lotus caramelizada (300 ud)",
+   "priceUnit": "€/caja",
+   "price": 18.8,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 18.8,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-15233",
+   "supplierId": "solum-pars",
+   "category": "Alimentación",
+   "code": "15233",
+   "name": "Mayonesa Heinz cubo 5 L",
+   "priceUnit": "€/cubo",
+   "price": 14.56,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 14.56,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-15234",
+   "supplierId": "solum-pars",
+   "category": "Alimentación",
+   "code": "15234",
+   "name": "Ketchup Heinz sobres 10 ml (200)",
+   "priceUnit": "€/caja",
+   "price": 9.99,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 9.99,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-15235",
+   "supplierId": "solum-pars",
+   "category": "Alimentación",
+   "code": "15235",
+   "name": "Mayonesa Heinz sobres 10 ml (200)",
+   "priceUnit": "€/caja",
+   "price": 11.34,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 11.34,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-84106",
+   "supplierId": "solum-pars",
+   "category": "Alimentación",
+   "code": "84106",
+   "name": "Aceite girasol alto oleico 25 L",
+   "priceUnit": "€/ud",
+   "price": 67.404,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 67.404,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-17310",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "17310",
+   "name": "Vino El Sotillo tinto 75 cl",
+   "priceUnit": "€/botella",
+   "price": 1.0,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 1.0,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-19093",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "19093",
+   "name": "Fanta limón 2 L",
+   "priceUnit": "€/botella",
+   "price": 1.22,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 1.22,
+   "firstDate": "2026-03-04"
+  },
+  {
+   "id": "solum-pars-19077",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "19077",
+   "name": "Red Bull 250 ml",
+   "priceUnit": "€/lata",
+   "price": 1.56,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-19118",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "19118",
+   "name": "Gaseosa La Casera 0,5 L",
+   "priceUnit": "€/botella",
+   "price": 0.47,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-20098",
+   "supplierId": "solum-pars",
+   "category": "Alimentación",
+   "code": "20098",
+   "name": "Aceite girasol Coosol 5 L",
+   "priceUnit": "€/garrafa",
+   "price": 8.1,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-20248",
+   "supplierId": "solum-pars",
+   "category": "Alimentación",
+   "code": "20248",
+   "name": "AOVE monodosis 10 ml",
+   "priceUnit": "€/caja",
+   "price": 24.0,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-24365",
+   "supplierId": "solum-pars",
+   "category": "Limpieza/Higiene",
+   "code": "24365",
+   "name": "Fairy hostelería 5 L",
+   "priceUnit": "€/garrafa",
+   "price": 9.81,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "Prodesco lavavajillas 5 L: 6,21",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-25086",
+   "supplierId": "solum-pars",
+   "category": "Limpieza/Higiene",
+   "code": "25086",
+   "name": "Bobina papel industrial virgen",
+   "priceUnit": "€/ud",
+   "price": 14.95,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-1195",
+   "supplierId": "solum-pars",
+   "category": "Pescado/Marisco",
+   "code": "1195",
+   "name": "Berberecho Baymar 25/35",
+   "priceUnit": "€/lata",
+   "price": 6.97,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-1287",
+   "supplierId": "solum-pars",
+   "category": "Pescado/Marisco",
+   "code": "1287",
+   "name": "Anchoa mariposa 25 pz",
+   "priceUnit": "€/ud",
+   "price": 26.25,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-12152",
+   "supplierId": "solum-pars",
+   "category": "Alimentación",
+   "code": "12152",
+   "name": "Cóctel aceitunas maxicubo 3,5 kg",
+   "priceUnit": "€/ud",
+   "price": 17.35,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-84007",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "84007",
+   "name": "Leche Pascual 1,5 L (neto)",
+   "priceUnit": "€/botella",
+   "price": 1.56,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-74095",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "74095",
+   "name": "Barril Alhambra Reserva Roja 20 L (neto)",
+   "priceUnit": "€/barril",
+   "price": 78.29,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-74100",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "74100",
+   "name": "Gas CO2 bombona",
+   "priceUnit": "€/ud",
+   "price": 53.23,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-17058",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "17058",
+   "name": "Martini rojo 1 L",
+   "priceUnit": "€/botella",
+   "price": 7.55,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-17428",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "17428",
+   "name": "Vermut Yzaguirre rojo 1 L",
+   "priceUnit": "€/botella",
+   "price": 6.08,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18000",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18000",
+   "name": "Whisky White Label 70 cl",
+   "priceUnit": "€/botella",
+   "price": 10.16,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18001",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18001",
+   "name": "Whisky J&B 70 cl",
+   "priceUnit": "€/botella",
+   "price": 8.94,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18002",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18002",
+   "name": "Whisky Johnnie Walker Red 70 cl",
+   "priceUnit": "€/botella",
+   "price": 11.38,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18007",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18007",
+   "name": "Whisky DYC 8 años",
+   "priceUnit": "€/botella",
+   "price": 10.56,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18008",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18008",
+   "name": "Whisky DYC 70 cl",
+   "priceUnit": "€/botella",
+   "price": 8.21,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18039",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18039",
+   "name": "Vodka Absolut 70 cl",
+   "priceUnit": "€/botella",
+   "price": 11.28,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18068",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18068",
+   "name": "Ginebra Beefeater 70 cl",
+   "priceUnit": "€/botella",
+   "price": 11.87,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18070",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18070",
+   "name": "Ginebra Larios 1 L",
+   "priceUnit": "€/botella",
+   "price": 10.0,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18335",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18335",
+   "name": "Ginebra Larios 12 70 cl",
+   "priceUnit": "€/botella",
+   "price": 11.88,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18345",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18345",
+   "name": "Ginebra Puerto de Indias",
+   "priceUnit": "€/botella",
+   "price": 13.1,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18171",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18171",
+   "name": "Ron Barceló Añejo 70 cl",
+   "priceUnit": "€/botella",
+   "price": 11.89,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18210",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18210",
+   "name": "Ron Brugal Añejo 70 cl",
+   "priceUnit": "€/botella",
+   "price": 11.7,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18225",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18225",
+   "name": "Licor de limón Villamasa 70 cl",
+   "priceUnit": "€/botella",
+   "price": 10.61,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "solum-pars-18385",
+   "supplierId": "solum-pars",
+   "category": "Bebidas",
+   "code": "18385",
+   "name": "Crema de orujo El Afilador 70 cl",
+   "priceUnit": "€/botella",
+   "price": 7.57,
+   "discount": 0.0,
+   "date": "2026-03-04",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "disconfa-14001",
+   "supplierId": "disconfa",
+   "category": "Carnes",
+   "code": "14001",
+   "name": "Alas partidas Pavidol 5 kg",
+   "priceUnit": "€/kg",
+   "price": 3.9,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 3.5,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "disconfa-14489",
+   "supplierId": "disconfa",
+   "category": "Carnes",
+   "code": "14489",
+   "name": "Taquito magro de cerdo 5 kg",
+   "priceUnit": "€/kg",
+   "price": 3.9,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "",
+   "firstPrice": 3.85,
+   "firstDate": "2026-01-22"
+  },
+  {
+   "id": "disconfa-10462",
+   "supplierId": "disconfa",
+   "category": "Verdura/Setas",
+   "code": "10462",
+   "name": "Aguacate mitades 5 kg",
+   "priceUnit": "€/kg",
+   "price": 5.99,
+   "discount": 0.0,
+   "date": "2026-01-22",
+   "note": "García Molinero: 6,15",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "disconfa-14019",
+   "supplierId": "disconfa",
+   "category": "Carnes",
+   "code": "14019",
+   "name": "Pollo troceado 5 kg",
+   "priceUnit": "€/kg",
+   "price": 3.5,
+   "discount": 0.0,
+   "date": "2026-03-05",
+   "note": "García Molinero: 4,19",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "disconfa-14030",
+   "supplierId": "disconfa",
+   "category": "Carnes",
+   "code": "14030",
+   "name": "Alas de pollo enteras 5 kg",
+   "priceUnit": "€/kg",
+   "price": 3.1,
+   "discount": 0.0,
+   "date": "2026-02-12",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "disconfa-15584",
+   "supplierId": "disconfa",
+   "category": "Pescado/Marisco",
+   "code": "15584",
+   "name": "Tortilla de camarón Terranova 4 kg",
+   "priceUnit": "€/kg",
+   "price": 6.4,
+   "discount": 0.0,
+   "date": "2026-02-12",
+   "note": "García Molinero: 7,20",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "disconfa-18240",
+   "supplierId": "disconfa",
+   "category": "Alimentación",
+   "code": "18240",
+   "name": "Salsa César Millas 1,85 L",
+   "priceUnit": "€/ud",
+   "price": 10.6,
+   "discount": 0.0,
+   "date": "2026-03-05",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "disconfa-10314",
+   "supplierId": "disconfa",
+   "category": "Verdura/Setas",
+   "code": "10314",
+   "name": "Flor de alcachofa XXL 16×4",
+   "priceUnit": "€/caja",
+   "price": 23.9,
+   "discount": 0.0,
+   "date": "2026-02-12",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "disconfa-10324",
+   "supplierId": "disconfa",
+   "category": "Verdura/Setas",
+   "code": "10324",
+   "name": "Flor de alcachofa confitada 6×6",
+   "priceUnit": "€/ud",
+   "price": 6.9,
+   "discount": 0.0,
+   "date": "2026-01-23",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "dmc-maper-catering-01581",
+   "supplierId": "dmc",
+   "category": "Precocinados",
+   "code": "01581",
+   "name": "Nuggets de pollo 5×1 kg",
+   "priceUnit": "€/kg",
+   "price": 4.49,
+   "discount": 0.0,
+   "date": "2026-08-07",
+   "note": "García Molinero: 6,40",
+   "firstPrice": 4.19,
+   "firstDate": "2026-02-05"
+  },
+  {
+   "id": "dmc-maper-catering-01580",
+   "supplierId": "dmc",
+   "category": "Precocinados",
+   "code": "01580",
+   "name": "Mini flamenquín 5×1 kg",
+   "priceUnit": "€/kg",
+   "price": 4.49,
+   "discount": 0.0,
+   "date": "2026-08-07",
+   "note": "",
+   "firstPrice": 3.99,
+   "firstDate": "2026-02-05"
+  },
+  {
+   "id": "dmc-maper-catering-01579",
+   "supplierId": "dmc",
+   "category": "Precocinados",
+   "code": "01579",
+   "name": "Mini empanadilla de bonito 4 kg",
+   "priceUnit": "€/kg",
+   "price": 3.29,
+   "discount": 0.0,
+   "date": "2026-02-26",
+   "note": "",
+   "firstPrice": 3.19,
+   "firstDate": "2026-02-05"
+  },
+  {
+   "id": "dmc-maper-catering-01366",
+   "supplierId": "dmc",
+   "category": "Pescado/Marisco",
+   "code": "01366",
+   "name": "Tortillita de camarón 3×1 kg",
+   "priceUnit": "€/kg",
+   "price": 6.29,
+   "discount": 0.0,
+   "date": "2026-02-26",
+   "note": "García Molinero: 7,20",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "dmc-maper-catering-01610",
+   "supplierId": "dmc",
+   "category": "Precocinados",
+   "code": "01610",
+   "name": "Mini san jacobo 10×500 g",
+   "priceUnit": "€/kg",
+   "price": 4.49,
+   "discount": 0.0,
+   "date": "2026-02-26",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "dmc-maper-catering-01863",
+   "supplierId": "dmc",
+   "category": "Pescado/Marisco",
+   "code": "01863",
+   "name": "Taquitos rebozados tipo sepia 4×1 kg",
+   "priceUnit": "€/kg",
+   "price": 4.89,
+   "discount": 0.0,
+   "date": "2026-08-07",
+   "note": "García Molinero potón: 7,65",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "dmc-maper-catering-01882",
+   "supplierId": "dmc",
+   "category": "Carnes",
+   "code": "01882",
+   "name": "Alas barbacoa 5×1 kg",
+   "priceUnit": "€/kg",
+   "price": 7.29,
+   "discount": 0.0,
+   "date": "2026-08-07",
+   "note": "García Molinero: 4,89",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "disa-heineken-1341",
+   "supplierId": "disa-heineken",
+   "category": "Bebidas",
+   "code": "1341",
+   "name": "Heineken 1/3 retornable 24 (neto)",
+   "priceUnit": "€/caja",
+   "price": 21.83,
+   "discount": 0.0,
+   "date": "2026-07-09",
+   "note": "Tarifa 39,69 con 45 % dto",
+   "firstPrice": 21.83,
+   "firstDate": "2026-01-28"
+  },
+  {
+   "id": "disa-heineken-1343",
+   "supplierId": "disa-heineken",
+   "category": "Bebidas",
+   "code": "1343",
+   "name": "Heineken 0,0 1/3 retornable 24 (neto)",
+   "priceUnit": "€/caja",
+   "price": 23.21,
+   "discount": 0.0,
+   "date": "2026-07-09",
+   "note": "",
+   "firstPrice": 23.21,
+   "firstDate": "2026-01-28"
+  },
+  {
+   "id": "disa-heineken-93223",
+   "supplierId": "disa-heineken",
+   "category": "Bebidas",
+   "code": "93223",
+   "name": "Schweppes tónica 20 cl (28) neto",
+   "priceUnit": "€/caja",
+   "price": 21.56,
+   "discount": 0.0,
+   "date": "2026-01-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "disa-heineken-95884",
+   "supplierId": "disa-heineken",
+   "category": "Bebidas",
+   "code": "95884",
+   "name": "Trina limón zero 25 cl (24) neto",
+   "priceUnit": "€/caja",
+   "price": 18.86,
+   "discount": 0.0,
+   "date": "2026-01-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-s-3553",
+   "supplierId": "ehosa",
+   "category": "Verdura/Setas",
+   "code": "S-3553",
+   "name": "Albahaca hoja 210 g",
+   "priceUnit": "€/bote",
+   "price": 3.02,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 3.02,
+   "firstDate": "2026-01-23"
+  },
+  {
+   "id": "ehosa-empanada-de-atun-soyago",
+   "supplierId": "ehosa",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Empanada de atún Soyago",
+   "priceUnit": "€/ud",
+   "price": 11.44,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-c-2424",
+   "supplierId": "ehosa",
+   "category": "Precocinados",
+   "code": "C-2424",
+   "name": "Empanadilla de atún",
+   "priceUnit": "€/ud",
+   "price": 2.99,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-c-2278",
+   "supplierId": "ehosa",
+   "category": "Precocinados",
+   "code": "C-2278",
+   "name": "Mini rollito primavera 900 g",
+   "priceUnit": "€/bolsa",
+   "price": 6.63,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-r-6604",
+   "supplierId": "ehosa",
+   "category": "Precocinados",
+   "code": "R-6604",
+   "name": "Ensaladilla de ahumados",
+   "priceUnit": "€/ud",
+   "price": 8.46,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-r-1371",
+   "supplierId": "ehosa",
+   "category": "Pescado/Marisco",
+   "code": "R-1371",
+   "name": "Filete anchoa Cantábrico Hoyo",
+   "priceUnit": "€/ud",
+   "price": 28.0,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-s-4200",
+   "supplierId": "ehosa",
+   "category": "Alimentación",
+   "code": "S-4200",
+   "name": "Pimentón de la Vera DO dulce",
+   "priceUnit": "€/ud",
+   "price": 12.49,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-c-1460",
+   "supplierId": "ehosa",
+   "category": "Carnes",
+   "code": "C-1460",
+   "name": "Alitas de pollo barbacoa",
+   "priceUnit": "€/kg",
+   "price": 6.63,
+   "discount": 0.0,
+   "date": "2026-01-16",
+   "note": "6,31 el 02/01: precio variable",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-c-6747",
+   "supplierId": "ehosa",
+   "category": "Pescado/Marisco",
+   "code": "C-6747",
+   "name": "Mejillón 1/2 concha 60/80",
+   "priceUnit": "€/kg",
+   "price": 8.57,
+   "discount": 0.0,
+   "date": "2026-01-16",
+   "note": "8,90 el 02/01; García Molinero 9,40",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-r-1155",
+   "supplierId": "ehosa",
+   "category": "Carnes",
+   "code": "R-1155",
+   "name": "Punta de costilla adobada",
+   "priceUnit": "€/kg",
+   "price": 8.82,
+   "discount": 0.0,
+   "date": "2026-01-02",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-c-1469",
+   "supplierId": "ehosa",
+   "category": "Pescado/Marisco",
+   "code": "C-1469",
+   "name": "Potón rebozado dados",
+   "priceUnit": "€/kg",
+   "price": 7.49,
+   "discount": 0.0,
+   "date": "2026-01-30",
+   "note": "8,60 el 16/01: precio variable",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-palomitas-de-pollo",
+   "supplierId": "ehosa",
+   "category": "Precocinados",
+   "code": "",
+   "name": "Palomitas de pollo",
+   "priceUnit": "€/kg",
+   "price": 7.36,
+   "discount": 0.0,
+   "date": "2026-01-30",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-s-4123",
+   "supplierId": "ehosa",
+   "category": "Postres",
+   "code": "S-4123",
+   "name": "Mermelada fresa cubo",
+   "priceUnit": "€/cubo",
+   "price": 18.55,
+   "discount": 0.0,
+   "date": "2026-01-23",
+   "note": "17,12 el 16/01",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-r-1439",
+   "supplierId": "ehosa",
+   "category": "Postres",
+   "code": "R-1439",
+   "name": "Nata montada spray 700 ml",
+   "priceUnit": "€/ud",
+   "price": 8.42,
+   "discount": 0.0,
+   "date": "2026-01-23",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-s-835",
+   "supplierId": "ehosa",
+   "category": "Postres",
+   "code": "S-835",
+   "name": "Sirope de chocolate",
+   "priceUnit": "€/ud",
+   "price": 4.91,
+   "discount": 0.0,
+   "date": "2026-01-02",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-s-837",
+   "supplierId": "ehosa",
+   "category": "Postres",
+   "code": "S-837",
+   "name": "Sirope de fresa",
+   "priceUnit": "€/ud",
+   "price": 5.32,
+   "discount": 0.0,
+   "date": "2026-01-02",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-s-4058",
+   "supplierId": "ehosa",
+   "category": "Alimentación",
+   "code": "S-4058",
+   "name": "Caldo de verdura Knorr",
+   "priceUnit": "€/ud",
+   "price": 9.81,
+   "discount": 0.0,
+   "date": "2026-01-23",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-s-3618",
+   "supplierId": "ehosa",
+   "category": "Alimentación",
+   "code": "S-3618",
+   "name": "Fajitas especias mix 810 g",
+   "priceUnit": "€/bote",
+   "price": 5.5,
+   "discount": 0.0,
+   "date": "2026-01-23",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-s-3574",
+   "supplierId": "ehosa",
+   "category": "Alimentación",
+   "code": "S-3574",
+   "name": "Orégano hoja 150 g",
+   "priceUnit": "€/bote",
+   "price": 2.55,
+   "discount": 0.0,
+   "date": "2026-01-23",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ehosa-s-3564",
+   "supplierId": "ehosa",
+   "category": "Alimentación",
+   "code": "S-3564",
+   "name": "Comino molido 700 g",
+   "priceUnit": "€/bote",
+   "price": 6.34,
+   "discount": 0.0,
+   "date": "2026-01-30",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "begibe-cafe-c21",
+   "supplierId": "begibe",
+   "category": "Café/Infusiones",
+   "code": "C21",
+   "name": "Café arábica 100 % grano oro",
+   "priceUnit": "€/kg",
+   "price": 21.8,
+   "discount": 0.0,
+   "date": "2026-07-20",
+   "note": "",
+   "firstPrice": 21.8,
+   "firstDate": "2026-01-19"
+  },
+  {
+   "id": "begibe-cafe-c17",
+   "supplierId": "begibe",
+   "category": "Café/Infusiones",
+   "code": "C17",
+   "name": "Café descafeinado arábica",
+   "priceUnit": "€/kg",
+   "price": 19.15,
+   "discount": 0.0,
+   "date": "2026-07-20",
+   "note": "",
+   "firstPrice": 19.15,
+   "firstDate": "2026-02-02"
+  },
+  {
+   "id": "begibe-cafe-082",
+   "supplierId": "begibe",
+   "category": "Café/Infusiones",
+   "code": "082",
+   "name": "Sacarina cesto",
+   "priceUnit": "€/ud",
+   "price": 4.82,
+   "discount": 0.0,
+   "date": "2026-07-20",
+   "note": "",
+   "firstPrice": 4.8,
+   "firstDate": "2026-01-19"
+  },
+  {
+   "id": "begibe-cafe-azucar-sobres-5-g-1-000",
+   "supplierId": "begibe",
+   "category": "Café/Infusiones",
+   "code": "",
+   "name": "Azúcar sobres 5 g (1.000)",
+   "priceUnit": "€/caja",
+   "price": 13.56,
+   "discount": 0.0,
+   "date": "2026-02-02",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "begibe-cafe-096",
+   "supplierId": "begibe",
+   "category": "Café/Infusiones",
+   "code": "096",
+   "name": "Azúcar moreno cesta",
+   "priceUnit": "€/ud",
+   "price": 4.5,
+   "discount": 0.0,
+   "date": "2026-02-02",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "begibe-cafe-012",
+   "supplierId": "begibe",
+   "category": "Café/Infusiones",
+   "code": "012",
+   "name": "Cola Cao",
+   "priceUnit": "€/ud",
+   "price": 16.8,
+   "discount": 0.0,
+   "date": "2026-02-02",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "begibe-cafe-p3-p5",
+   "supplierId": "begibe",
+   "category": "Café/Infusiones",
+   "code": "P3/P5",
+   "name": "Infusión pirámides (20)",
+   "priceUnit": "€/caja",
+   "price": 6.3,
+   "discount": 0.0,
+   "date": "2026-02-02",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "royalmar-pan-63483",
+   "supplierId": "royalmar",
+   "category": "Panadería",
+   "code": "63483",
+   "name": "Pan Burger Beach (caja 80) neto",
+   "priceUnit": "€/caja",
+   "price": 44.55,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "Tarifa 99,00 con 55 % dto",
+   "firstPrice": 44.55,
+   "firstDate": "2026-07-03"
+  },
+  {
+   "id": "royalmar-pan-211499",
+   "supplierId": "royalmar",
+   "category": "Panadería",
+   "code": "211499",
+   "name": "Bocadillo Diamante (caja 44) neto",
+   "priceUnit": "€/caja",
+   "price": 19.32,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 19.32,
+   "firstDate": "2026-07-03"
+  },
+  {
+   "id": "royalmar-pan-69660",
+   "supplierId": "royalmar",
+   "category": "Panadería",
+   "code": "69660",
+   "name": "Frisandwich tostada 800 g (caja 8) neto",
+   "priceUnit": "€/caja",
+   "price": 23.36,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 23.36,
+   "firstDate": "2026-07-07"
+  },
+  {
+   "id": "royalmar-pan-62358",
+   "supplierId": "royalmar",
+   "category": "Panadería",
+   "code": "62358",
+   "name": "Burger brioche sin gluten 80 g (caja 20) neto",
+   "priceUnit": "€/caja",
+   "price": 44.68,
+   "discount": 0.0,
+   "date": "2026-07-31",
+   "note": "2,23 €/ud",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "royalmar-pan-66165",
+   "supplierId": "royalmar",
+   "category": "Panadería",
+   "code": "66165",
+   "name": "Mini Rock&Roll (caja 108) neto",
+   "priceUnit": "€/caja",
+   "price": 30.45,
+   "discount": 0.0,
+   "date": "2026-08-07",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "odyel-o-donnell-170202",
+   "supplierId": "odyel-o-donnell",
+   "category": "Bebidas",
+   "code": "170202",
+   "name": "Vino Esencia 27 verdejo semidulce (caja 6) neto",
+   "priceUnit": "€/caja",
+   "price": 24.99,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 24.99,
+   "firstDate": "2026-07-10"
+  },
+  {
+   "id": "odyel-o-donnell-298003",
+   "supplierId": "odyel-o-donnell",
+   "category": "Carnes",
+   "code": "298003",
+   "name": "Torrezno Santamaría 1 kg neto",
+   "priceUnit": "€/bolsa",
+   "price": 10.93,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "Cohermo torrezno horeca: 12,40/kg",
+   "firstPrice": 10.93,
+   "firstDate": "2026-07-24"
+  },
+  {
+   "id": "odyel-o-donnell-710701",
+   "supplierId": "odyel-o-donnell",
+   "category": "Alimentación",
+   "code": "710701",
+   "name": "Tomate Tomaunta Gallina Blanca 800 g neto",
+   "priceUnit": "€/lata",
+   "price": 1.73,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 1.73,
+   "firstDate": "2026-07-24"
+  },
+  {
+   "id": "odyel-o-donnell-751641",
+   "supplierId": "odyel-o-donnell",
+   "category": "Panadería",
+   "code": "751641",
+   "name": "Marineras 120 g (caja 14) neto",
+   "priceUnit": "€/caja",
+   "price": 31.14,
+   "discount": 0.0,
+   "date": "2026-08-28",
+   "note": "",
+   "firstPrice": 31.14,
+   "firstDate": "2026-07-03"
+  },
+  {
+   "id": "odyel-o-donnell-560401",
+   "supplierId": "odyel-o-donnell",
+   "category": "Bebidas",
+   "code": "560401",
+   "name": "Vino Sin Palabras (caja 6) neto",
+   "priceUnit": "€/caja",
+   "price": 52.01,
+   "discount": 0.0,
+   "date": "2026-07-24",
+   "note": "",
+   "firstPrice": 52.01,
+   "firstDate": "2026-07-03"
+  },
+  {
+   "id": "odyel-o-donnell-284502",
+   "supplierId": "odyel-o-donnell",
+   "category": "Alimentación",
+   "code": "284502",
+   "name": "Aceituna manzanilla 4,5 kg neto",
+   "priceUnit": "€/cubo",
+   "price": 16.24,
+   "discount": 0.0,
+   "date": "2026-07-03",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "odyel-o-donnell-284509",
+   "supplierId": "odyel-o-donnell",
+   "category": "Alimentación",
+   "code": "284509",
+   "name": "Aceituna cóctel campero 4 kg neto",
+   "priceUnit": "€/cubo",
+   "price": 18.83,
+   "discount": 0.0,
+   "date": "2026-07-10",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "odyel-o-donnell-250405",
+   "supplierId": "odyel-o-donnell",
+   "category": "Alimentación",
+   "code": "250405",
+   "name": "Pimentón picante ahumado 490 g",
+   "priceUnit": "€/bote",
+   "price": 6.24,
+   "discount": 0.0,
+   "date": "2026-07-10",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "cohermo-1331",
+   "supplierId": "cohermo",
+   "category": "Carnes",
+   "code": "1331",
+   "name": "Torrezno horeca",
+   "priceUnit": "€/kg",
+   "price": 12.4,
+   "discount": 0.0,
+   "date": "2026-07-16",
+   "note": "",
+   "firstPrice": 12.4,
+   "firstDate": "2026-06-18"
+  },
+  {
+   "id": "cohermo-1001",
+   "supplierId": "cohermo",
+   "category": "Carnes",
+   "code": "1001",
+   "name": "Panceta adobada",
+   "priceUnit": "€/kg",
+   "price": 8.65,
+   "discount": 0.0,
+   "date": "2026-07-16",
+   "note": "",
+   "firstPrice": 8.95,
+   "firstDate": "2026-06-11"
+  },
+  {
+   "id": "pan-ranz-barra-220-g",
+   "supplierId": "pan-ranz",
+   "category": "Panadería",
+   "code": "",
+   "name": "Barra 220 g",
+   "priceUnit": "€/ud",
+   "price": 0.7,
+   "discount": 0.0,
+   "date": "2026-07-31",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "pan-ranz-pan-payes-2-kg",
+   "supplierId": "pan-ranz",
+   "category": "Panadería",
+   "code": "",
+   "name": "Pan payés 2 kg",
+   "priceUnit": "€/ud",
+   "price": 7.5,
+   "discount": 0.0,
+   "date": "2026-07-31",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "barco-huevos-lbg",
+   "supplierId": "barco",
+   "category": "Huevos",
+   "code": "LBG",
+   "name": "Huevo L blanco granel",
+   "priceUnit": "€/docena",
+   "price": 2.4,
+   "discount": 0.0,
+   "date": "2026-08-27",
+   "note": "Factura emitida a 'LOFT 76, S.L.' con NIF erróneo",
+   "firstPrice": 2.4,
+   "firstDate": "2026-07-02"
+  },
+  {
+   "id": "barco-huevos-bdp",
+   "supplierId": "barco",
+   "category": "Alimentación",
+   "code": "BDP",
+   "name": "Patatas fritas bolsa 500 g",
+   "priceUnit": "€/bolsa",
+   "price": 2.75,
+   "discount": 0.0,
+   "date": "2026-07-23",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "ddi-damm-vo13",
+   "supplierId": "ddi-damm",
+   "category": "Bebidas",
+   "code": "VO13",
+   "name": "Voll-Damm 1/3 retornable",
+   "priceUnit": "€/caja",
+   "price": 37.38,
+   "discount": 0.0,
+   "date": "2026-07-10",
+   "note": "",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "licores-silva-2402040",
+   "supplierId": "licores-silva",
+   "category": "Bebidas",
+   "code": "2402040",
+   "name": "Ámbar 0,0 sin gluten 1/3 (tarifa)",
+   "priceUnit": "€/pack",
+   "price": 44.04,
+   "discount": 0.0,
+   "date": "2026-07-17",
+   "note": "Con dto 21,18",
+   "firstPrice": null,
+   "firstDate": null
+  },
+  {
+   "id": "hiper-usera-tu-cash-160739",
+   "supplierId": "hiper-usera",
+   "category": "Alimentación",
+   "code": "160739",
+   "name": "Chocolate en polvo Eliges 400 g",
+   "priceUnit": "€/ud",
+   "price": 1.68,
+   "discount": 0.0,
+   "date": "2026-08-06",
+   "note": "",
+   "firstPrice": 1.68,
+   "firstDate": "2026-07-07"
+  },
+  {
+   "id": "foster-food-40001002",
+   "supplierId": "foster-food",
+   "category": "Precocinados",
+   "code": "40001002",
+   "name": "Croqueta jamón ibérico 30 g Crocon (bandeja 1 kg)",
+   "priceUnit": "€/bandeja",
+   "price": 8.19,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Pendiente de prueba a ciegas"
+  },
+  {
+   "id": "foster-food-40001004",
+   "supplierId": "foster-food",
+   "category": "Precocinados",
+   "code": "40001004",
+   "name": "Croqueta rabo estofado 30 g Crocon (bandeja 1 kg)",
+   "priceUnit": "€/bandeja",
+   "price": 9.49,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Confirmar si es toro o vacuno"
+  },
+  {
+   "id": "foster-food-40001312",
+   "supplierId": "foster-food",
+   "category": "Quesos/Lácteos",
+   "code": "40001312",
+   "name": "Mozzarella rallada Maestrella (bolsa 2,5 kg)",
+   "priceUnit": "€/bolsa",
+   "price": 15.03,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Tarifa septiembre 2026"
+  },
+  {
+   "id": "foster-food-40000816",
+   "supplierId": "foster-food",
+   "category": "Carnes",
+   "code": "40000816",
+   "name": "Bacon ahumado loncheado sin corteza (bolsa 2 kg)",
+   "priceUnit": "€/bolsa",
+   "price": 17.25,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Tarifa septiembre 2026"
+  },
+  {
+   "id": "foster-food-40000328",
+   "supplierId": "foster-food",
+   "category": "Aves",
+   "code": "40000328",
+   "name": "Alitas de pollo BBQ Virginia (caja 10 kg)",
+   "priceUnit": "€/caja",
+   "price": 118.02,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Tarifa septiembre 2026"
+  },
+  {
+   "id": "foster-food-40000312",
+   "supplierId": "foster-food",
+   "category": "Precocinados",
+   "code": "40000312",
+   "name": "Nuggets de pollo tempura (caja 5 kg)",
+   "priceUnit": "€/caja",
+   "price": 35.57,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Tarifa septiembre 2026"
+  },
+  {
+   "id": "foster-food-40000304",
+   "supplierId": "foster-food",
+   "category": "Precocinados",
+   "code": "40000304",
+   "name": "Jalapeño verde cheddar (caja 6 kg)",
+   "priceUnit": "€/caja",
+   "price": 64.55,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Tarifa septiembre 2026"
+  },
+  {
+   "id": "foster-food-40000324",
+   "supplierId": "foster-food",
+   "category": "Precocinados",
+   "code": "40000324",
+   "name": "Palomitas de pollo (caja 5 kg)",
+   "priceUnit": "€/caja",
+   "price": 50.71,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Tarifa septiembre 2026"
+  },
+  {
+   "id": "foster-food-50000246",
+   "supplierId": "foster-food",
+   "category": "Precocinados",
+   "code": "50000246",
+   "name": "Mini rollito primavera vegetal (estuche 60 ud, 900 g)",
+   "priceUnit": "€/estuche",
+   "price": 5.7,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Tarifa septiembre 2026"
+  },
+  {
+   "id": "foster-food-40000878",
+   "supplierId": "foster-food",
+   "category": "Verdura/Setas",
+   "code": "40000878",
+   "name": "Dados de aguacate Kooking (bolsa 1 kg)",
+   "priceUnit": "€/bolsa",
+   "price": 8.15,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Dados, no mitades"
+  },
+  {
+   "id": "foster-food-40001168",
+   "supplierId": "foster-food",
+   "category": "Alimentación",
+   "code": "40001168",
+   "name": "Salsa César 780 ml",
+   "priceUnit": "€/botella",
+   "price": 7.32,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Tarifa septiembre 2026"
+  },
+  {
+   "id": "foster-food-40003061",
+   "supplierId": "foster-food",
+   "category": "Quesos/Lácteos",
+   "code": "40003061",
+   "name": "Queso cheddar loncheado (bandeja 1 kg)",
+   "priceUnit": "€/bandeja",
+   "price": 7.97,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Tarifa septiembre 2026"
+  },
+  {
+   "id": "foster-food-50000228",
+   "supplierId": "foster-food",
+   "category": "Precocinados",
+   "code": "50000228",
+   "name": "Gyoza cerdo y verduras Asian Bites (bolsa 600 g)",
+   "priceUnit": "€/bolsa",
+   "price": 5.45,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "≈30 ud por bolsa: verificar peso y calidad"
+  },
+  {
+   "id": "foster-food-40001424",
+   "supplierId": "foster-food",
+   "category": "Alimentación",
+   "code": "40001424",
+   "name": "Salsa queso cheddar IKO (lata 2,6 kg)",
+   "priceUnit": "€/lata",
+   "price": 25.61,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Tarifa septiembre 2026"
+  },
+  {
+   "id": "foster-food-40001416",
+   "supplierId": "foster-food",
+   "category": "Alimentación",
+   "code": "40001416",
+   "name": "Nachos chips natural 425 g",
+   "priceUnit": "€/bolsa",
+   "price": 3.355,
+   "discount": 0.0,
+   "date": "2026-09-15",
+   "note": "Caja de 8 bolsas a 26,84"
+  }
+ ],
+ "groups": [
+  {
+   "id": "croqueta-jamon-iberico-30g",
+   "name": "Croqueta jamón ibérico 30 g",
+   "baseUnit": "kg",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "prodesco-3455",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    },
+    {
+     "offerId": "foster-food-40001002",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    }
+   ]
+  },
+  {
+   "id": "croqueta-rabo-30g",
+   "name": "Croqueta de rabo 30 g",
+   "baseUnit": "kg",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "prodesco-3691",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    },
+    {
+     "offerId": "foster-food-40001004",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    },
+    {
+     "offerId": "garcia-molinero-croqueta-meson-rabo-de-toro-4500-g",
+     "qtyPerPriceUnit": 0.5,
+     "pack": 0.5
+    }
+   ]
+  },
+  {
+   "id": "alas-bbq",
+   "name": "Alas de pollo BBQ",
+   "baseUnit": "kg",
+   "category": "Aves",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-alas-de-pollo-bbq",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    },
+    {
+     "offerId": "dmc-maper-catering-01882",
+     "qtyPerPriceUnit": 1,
+     "pack": 5
+    },
+    {
+     "offerId": "ehosa-c-1460",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    },
+    {
+     "offerId": "foster-food-40000328",
+     "qtyPerPriceUnit": 10,
+     "pack": 10
+    }
+   ]
+  },
+  {
+   "id": "nuggets",
+   "name": "Nuggets de pollo",
+   "baseUnit": "kg",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-nuggets-pollo-cornflakes",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    },
+    {
+     "offerId": "dmc-maper-catering-01581",
+     "qtyPerPriceUnit": 1,
+     "pack": 5
+    },
+    {
+     "offerId": "foster-food-40000312",
+     "qtyPerPriceUnit": 5,
+     "pack": 5
+    }
+   ]
+  },
+  {
+   "id": "palomitas-pollo",
+   "name": "Palomitas de pollo",
+   "baseUnit": "kg",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "ehosa-palomitas-de-pollo",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    },
+    {
+     "offerId": "foster-food-40000324",
+     "qtyPerPriceUnit": 5,
+     "pack": 5
+    }
+   ]
+  },
+  {
+   "id": "sepia-rebozada",
+   "name": "Sepia / potón rebozado",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-poton-rebozado-tipo-sepia",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    },
+    {
+     "offerId": "dmc-maper-catering-01863",
+     "qtyPerPriceUnit": 1,
+     "pack": 4
+    },
+    {
+     "offerId": "ehosa-c-1469",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "tortita-camaron",
+   "name": "Tortita de camarón",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-tortita-de-camaron-artesana",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    },
+    {
+     "offerId": "dmc-maper-catering-01366",
+     "qtyPerPriceUnit": 1,
+     "pack": 3
+    },
+    {
+     "offerId": "disconfa-15584",
+     "qtyPerPriceUnit": 1,
+     "pack": 4
+    }
+   ]
+  },
+  {
+   "id": "mejillon-media-concha",
+   "name": "Mejillón media concha",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-mejillon-media-concha",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    },
+    {
+     "offerId": "ehosa-c-6747",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "mini-flamenquin",
+   "name": "Mini flamenquín",
+   "baseUnit": "kg",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-flamenquin-mini",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    },
+    {
+     "offerId": "dmc-maper-catering-01580",
+     "qtyPerPriceUnit": 1,
+     "pack": 5
+    }
+   ]
+  },
+  {
+   "id": "jalapeno-relleno",
+   "name": "Jalapeño relleno de queso",
+   "baseUnit": "kg",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-jalapeno-snack-crema",
+     "qtyPerPriceUnit": 1,
+     "pack": 3
+    },
+    {
+     "offerId": "ehosa-bocadito-de-cheddar-y-jalapeno",
+     "qtyPerPriceUnit": 1,
+     "pack": 3
+    },
+    {
+     "offerId": "foster-food-40000304",
+     "qtyPerPriceUnit": 6,
+     "pack": 6
+    }
+   ]
+  },
+  {
+   "id": "mini-rollito",
+   "name": "Mini rollito de primavera",
+   "baseUnit": "kg",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "ehosa-c-2278",
+     "qtyPerPriceUnit": 0.9,
+     "pack": 0.9
+    },
+    {
+     "offerId": "foster-food-50000246",
+     "qtyPerPriceUnit": 0.9,
+     "pack": 0.9
+    }
+   ]
+  },
+  {
+   "id": "pollo-troceado",
+   "name": "Pollo troceado",
+   "baseUnit": "kg",
+   "category": "Aves",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-pollo-troceado",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    },
+    {
+     "offerId": "disconfa-14019",
+     "qtyPerPriceUnit": 1,
+     "pack": 5
+    }
+   ]
+  },
+  {
+   "id": "magro-cerdo-tacos",
+   "name": "Magro de cerdo en tacos",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "disconfa-14489",
+     "qtyPerPriceUnit": 1,
+     "pack": 5
+    },
+    {
+     "offerId": "garcia-molinero-estofado-de-cerdo-magro",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "aguacate",
+   "name": "Aguacate congelado",
+   "baseUnit": "kg",
+   "category": "Verdura/Setas",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-aguacate-en-mitades",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    },
+    {
+     "offerId": "disconfa-10462",
+     "qtyPerPriceUnit": 1,
+     "pack": 5
+    },
+    {
+     "offerId": "foster-food-40000878",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    }
+   ]
+  },
+  {
+   "id": "salsa-cesar",
+   "name": "Salsa César",
+   "baseUnit": "L",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "disconfa-18240",
+     "qtyPerPriceUnit": 1.85,
+     "pack": 1.85
+    },
+    {
+     "offerId": "foster-food-40001168",
+     "qtyPerPriceUnit": 0.78,
+     "pack": 0.78
+    }
+   ]
+  },
+  {
+   "id": "cheddar-lonchas",
+   "name": "Queso cheddar en lonchas",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "alicentro-6562",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    },
+    {
+     "offerId": "tgt-quesos-011066",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    },
+    {
+     "offerId": "foster-food-40003061",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    }
+   ]
+  },
+  {
+   "id": "mozzarella-rallada",
+   "name": "Mozzarella rallada",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-009013",
+     "qtyPerPriceUnit": 1,
+     "pack": 2
+    },
+    {
+     "offerId": "foster-food-40001312",
+     "qtyPerPriceUnit": 2.5,
+     "pack": 2.5
+    }
+   ]
+  },
+  {
+   "id": "rallado-3-quesos",
+   "name": "Rallado mezcla 3 quesos",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-014079",
+     "qtyPerPriceUnit": 1,
+     "pack": 1.5
+    },
+    {
+     "offerId": "alicentro-6411",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    }
+   ]
+  },
+  {
+   "id": "salsa-queso-cheddar",
+   "name": "Salsa de queso cheddar",
+   "baseUnit": "kg",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-30634",
+     "qtyPerPriceUnit": 3,
+     "pack": 3
+    },
+    {
+     "offerId": "foster-food-40001424",
+     "qtyPerPriceUnit": 2.6,
+     "pack": 2.6
+    }
+   ]
+  },
+  {
+   "id": "nachos",
+   "name": "Nachos / totopos de maíz",
+   "baseUnit": "kg",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-totopo-mission-450-g",
+     "qtyPerPriceUnit": 0.45,
+     "pack": 0.45
+    },
+    {
+     "offerId": "foster-food-40001416",
+     "qtyPerPriceUnit": 0.425,
+     "pack": 0.425
+    },
+    {
+     "offerId": "makro-nachos-triangulo-mexifoods-500-g",
+     "qtyPerPriceUnit": 0.5,
+     "pack": 0.5
+    }
+   ]
+  },
+  {
+   "id": "bacon-loncheado",
+   "name": "Bacon ahumado loncheado",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-bacon-ahumado-loncheado-500-g",
+     "qtyPerPriceUnit": 0.5,
+     "pack": 0.5
+    },
+    {
+     "offerId": "foster-food-40000816",
+     "qtyPerPriceUnit": 2,
+     "pack": 2
+    }
+   ]
+  },
+  {
+   "id": "chistorra",
+   "name": "Chistorra",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "alicentro-4135",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    },
+    {
+     "offerId": "makro-chistorra",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "aceituna-cubo",
+   "name": "Aceituna en cubo/lata grande",
+   "baseUnit": "kg",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "solum-pars-13357",
+     "qtyPerPriceUnit": 4.25,
+     "pack": 4.25
+    },
+    {
+     "offerId": "odyel-o-donnell-284502",
+     "qtyPerPriceUnit": 4.5,
+     "pack": 4.5
+    }
+   ]
+  },
+  {
+   "id": "lavavajillas-manual-5l",
+   "name": "Lavavajillas manual 5 L",
+   "baseUnit": "garrafa",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-7820",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    },
+    {
+     "offerId": "solum-pars-24365",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    }
+   ]
+  },
+  {
+   "id": "gyoza-cerdo",
+   "name": "Gyoza de cerdo/ternera y verduras",
+   "baseUnit": "ud",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "prodesco-1953",
+     "qtyPerPriceUnit": 1,
+     "pack": 100
+    },
+    {
+     "offerId": "foster-food-50000228",
+     "qtyPerPriceUnit": 30,
+     "pack": 30
+    }
+   ]
+  },
+  {
+   "id": "pan-bao",
+   "name": "Pan bao",
+   "baseUnit": "ud",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "prodesco-515",
+     "qtyPerPriceUnit": 20,
+     "pack": 20
+    },
+    {
+     "offerId": "foster-food-50000312",
+     "qtyPerPriceUnit": 60,
+     "pack": 60
+    }
+   ]
+  },
+  {
+   "id": "torrezno",
+   "name": "Torrezno",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "odyel-o-donnell-298003",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    },
+    {
+     "offerId": "cohermo-1331",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "gochujang",
+   "name": "Pasta gochujang",
+   "baseUnit": "kg",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-30816",
+     "qtyPerPriceUnit": 1,
+     "pack": 1
+    },
+    {
+     "offerId": "makro-gochujang-sempio-500-g",
+     "qtyPerPriceUnit": 0.5,
+     "pack": 0.5
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3086",
+   "name": "Papel higiénico industrial (caja 18 rollos)",
+   "baseUnit": "caja",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-3086",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-6632",
+   "name": "Guantes nitrilo T/M (caja 100)",
+   "baseUnit": "caja",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-6632",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-8619",
+   "name": "Guantes nitrilo T/G (caja 100)",
+   "baseUnit": "caja",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-8619",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3090",
+   "name": "Papel film 30 cm 300 m",
+   "baseUnit": "rollo",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-3090",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-6526",
+   "name": "Bolsa basura 100 L (rollo 10)",
+   "baseUnit": "rollo",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-6526",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3418",
+   "name": "Fregona algodón nº5",
+   "baseUnit": "ud",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-3418",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3046",
+   "name": "Lejía Casablanca 1 L",
+   "baseUnit": "botella",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-3046",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3167",
+   "name": "Amoniaco perfumado 1 L",
+   "baseUnit": "botella",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-3167",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-7762",
+   "name": "Bayeta universal rollo 8 m",
+   "baseUnit": "rollo",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-7762",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3102",
+   "name": "Cepillo barrer nylon",
+   "baseUnit": "ud",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-3102",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3184",
+   "name": "Estropajo aluminio (pack 8)",
+   "baseUnit": "pack",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-3184",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-9476",
+   "name": "Bayeta microfibra rosa (12 ud)",
+   "baseUnit": "paquete",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-9476",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-8669",
+   "name": "Bayeta microfibra verde (12 ud)",
+   "baseUnit": "paquete",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-8669",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-9477",
+   "name": "Bayeta microfibra azul (12 ud)",
+   "baseUnit": "paquete",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-9477",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-9478",
+   "name": "Bayeta microfibra amarilla (12 ud)",
+   "baseUnit": "paquete",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-9478",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3349",
+   "name": "Bolsa basura 240 L (rollo 10)",
+   "baseUnit": "rollo",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-3349",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3095",
+   "name": "Papel aluminio 30 cm 200 m",
+   "baseUnit": "rollo",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-3095",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3247",
+   "name": "Estropajo con esponja (pack 6)",
+   "baseUnit": "pack",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-3247",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-7537",
+   "name": "Papel mecha 2 capas (pack 6)",
+   "baseUnit": "paquete",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-7537",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-10089",
+   "name": "Bayeta microfibra limpiacristales rollo 6 m",
+   "baseUnit": "rollo",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-10089",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3106",
+   "name": "Recogedor mango alto",
+   "baseUnit": "ud",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "prodesco-3106",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-2775",
+   "name": "Gyoza cordero Wanrun 20 g",
+   "baseUnit": "ud",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-2775",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-salsa-kimchi-1-2-kg",
+   "name": "Salsa kimchi 1,2 kg",
+   "baseUnit": "ud",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-salsa-kimchi-1-2-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-30556",
+   "name": "Salsa barbacoa Bull's Eye 2 L",
+   "baseUnit": "botella",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-30556",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-9913",
+   "name": "Alcachofa confit 3 Fanegas 1.350 g",
+   "baseUnit": "huevera",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-9913",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-8290",
+   "name": "Salsa sriracha Eagle 815 g",
+   "baseUnit": "bote",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-8290",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-9396",
+   "name": "Salsa ranchera Cannery Row 3,78 L",
+   "baseUnit": "garrafa",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-9396",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-9248",
+   "name": "Ajinomoto 454 g",
+   "baseUnit": "bolsa",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-9248",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-275",
+   "name": "Salsa soja Jiajiashan 1 L",
+   "baseUnit": "botella",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-275",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-8349",
+   "name": "Salsa chili dulce Aroy 720 ml",
+   "baseUnit": "botella",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-8349",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-2041",
+   "name": "Croqueta jamón ibérico Deliplat 50 g (1 kg)",
+   "baseUnit": "bolsa",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-2041",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-30834",
+   "name": "Salsa barbacoa whisky Heinz 2 L",
+   "baseUnit": "bidón",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-30834",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-277",
+   "name": "Salsa hoisin LKK 397 g",
+   "baseUnit": "tarro",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-277",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-3639",
+   "name": "Croqueta puchero Deliplat (1 kg)",
+   "baseUnit": "bolsa",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-3639",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-4921",
+   "name": "Croqueta chuleta de vaca Deliplat (1 kg)",
+   "baseUnit": "bolsa",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-4921",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-1232",
+   "name": "Aceite soja y sésamo 2 L",
+   "baseUnit": "botella",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-1232",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-30695",
+   "name": "Pasta tahina Libano Foods 908 g",
+   "baseUnit": "bote",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-30695",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-8555",
+   "name": "Pasta miso blanco Marukome 1 kg",
+   "baseUnit": "bolsa",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-8555",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-5410",
+   "name": "Vinagre de sidra 1 L",
+   "baseUnit": "botella",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-5410",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-prodesco-1630",
+   "name": "Vinagre de arroz 600 ml",
+   "baseUnit": "botella",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "prodesco-1630",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-005205",
+   "name": "Tarta queso postre Lola plancha",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-005205",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-005928",
+   "name": "Rulo de cabra 1 kg",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-005928",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-015353",
+   "name": "Rallado Granello 1 kg",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-015353",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-011176",
+   "name": "Queso Edam en lonchas 1 kg",
+   "baseUnit": "ud",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-011176",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-000096",
+   "name": "Ronkari D.O.",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-000096",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-005285",
+   "name": "Azul La Fueya 2 leches",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-005285",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-006132",
+   "name": "Scamorza ahumada 1 kg",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-006132",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-008857",
+   "name": "Provolone sin cuerda",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-008857",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-016430",
+   "name": "Mozzarella Bianca 100 % hilo 1,5 kg",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-016430",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-009965",
+   "name": "Cremette 30 % MG cubo 3,5 kg",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-009965",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-087306",
+   "name": "Crema de camembert 500 g",
+   "baseUnit": "ud",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-087306",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-054059",
+   "name": "Crema agria Oldenburger 1 L",
+   "baseUnit": "ud",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-054059",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-016823",
+   "name": "Rallado hilo 4 quesos 1 kg",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-016823",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-018777",
+   "name": "Burrata Bianca 150 g",
+   "baseUnit": "ud",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-018777",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-016384",
+   "name": "Burrata Zanetti 100 g",
+   "baseUnit": "ud",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-016384",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-011061",
+   "name": "Lonchas tipo cheddar fundido 1 kg",
+   "baseUnit": "ud",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-011061",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-008853",
+   "name": "Provolone pancetta",
+   "baseUnit": "kg",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-008853",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-017836",
+   "name": "Tarta queso Lola 900 g",
+   "baseUnit": "ud",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-017836",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-tgt-quesos-018130",
+   "name": "Tomino parrilla 2×90 g",
+   "baseUnit": "ud",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "tgt-quesos-018130",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-abanico-iberico-extra",
+   "name": "Abanico ibérico extra",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-abanico-iberico-extra",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-pulpo-cocido-patas",
+   "name": "Pulpo cocido patas",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-pulpo-cocido-patas",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-lagrima-lagartito-iberica",
+   "name": "Lágrima (lagartito) ibérica",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-lagrima-lagartito-iberica",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-boletus-troceado-extra",
+   "name": "Boletus troceado extra",
+   "baseUnit": "kg",
+   "category": "Verdura/Setas",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-boletus-troceado-extra",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-mac-cheese-25-g",
+   "name": "Mac & cheese 25 g",
+   "baseUnit": "kg",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-mac-cheese-25-g",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-shiitake-entero",
+   "name": "Shiitake entero",
+   "baseUnit": "kg",
+   "category": "Verdura/Setas",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-shiitake-entero",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-nacho-guacamole-y-queso",
+   "name": "Nacho guacamole y queso",
+   "baseUnit": "kg",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-nacho-guacamole-y-queso",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-raba-de-calamar-priela",
+   "name": "Raba de calamar Priela",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-raba-de-calamar-priela",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-caprichos-romana-calamar",
+   "name": "Caprichos romana (calamar)",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-caprichos-romana-calamar",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-muslito-de-cangrejo",
+   "name": "Muslito de cangrejo",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-muslito-de-cangrejo",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-cazon-adobado-enharinado",
+   "name": "Cazón adobado enharinado",
+   "baseUnit": "ración",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-cazon-adobado-enharinado",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-boqueron-gordo-35-45",
+   "name": "Boquerón gordo 35/45",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-boqueron-gordo-35-45",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-albondigas-burger-meat-balls",
+   "name": "Albóndigas burger meat balls",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-albondigas-burger-meat-balls",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-carrillada-porcino",
+   "name": "Carrillada porcino",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-carrillada-porcino",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-bacalao-lomo-colosal-900",
+   "name": "Bacalao lomo colosal 900+",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-bacalao-lomo-colosal-900",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-bacalao-lomo-centro-asberg",
+   "name": "Bacalao lomo centro Asberg",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-bacalao-lomo-centro-asberg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-croquemoli-jamon-iberico",
+   "name": "Croquemoli jamón ibérico",
+   "baseUnit": "bolsa",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-croquemoli-jamon-iberico",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-bizcocho-borracho-estuche-12",
+   "name": "Bizcocho borracho (estuche 12)",
+   "baseUnit": "estuche",
+   "category": "Postres",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-bizcocho-borracho-estuche-12",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-tarta-de-manzana-rectangular-1-8-kg",
+   "name": "Tarta de manzana rectangular 1,8 kg",
+   "baseUnit": "ud",
+   "category": "Postres",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-tarta-de-manzana-rectangular-1-8-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-atun-en-aceite-astor-1-kg",
+   "name": "Atún en aceite Astor 1 kg",
+   "baseUnit": "bolsa",
+   "category": "Otros",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-atun-en-aceite-astor-1-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-ken-gourmet-duo-1-l",
+   "name": "Ken Gourmet Duo 1 L",
+   "baseUnit": "brik",
+   "category": "Otros",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-ken-gourmet-duo-1-l",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-croqueta-gastrobar-iberica-12-ud",
+   "name": "Croqueta gastrobar ibérica (12 ud)",
+   "baseUnit": "estuche",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-croqueta-gastrobar-iberica-12-ud",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-alcachofa-flor-confitada-extra",
+   "name": "Alcachofa flor confitada extra",
+   "baseUnit": "bandeja",
+   "category": "Verdura/Setas",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-alcachofa-flor-confitada-extra",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-mezcla-setas-con-boletus",
+   "name": "Mezcla setas con boletus",
+   "baseUnit": "kg",
+   "category": "Verdura/Setas",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-mezcla-setas-con-boletus",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-secreto-de-cerdo",
+   "name": "Secreto de cerdo",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-secreto-de-cerdo",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-garcia-molinero-tronquito-de-mar-surimi",
+   "name": "Tronquito de mar (surimi)",
+   "baseUnit": "estuche",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "garcia-molinero-tronquito-de-mar-surimi",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-temas-de-higiene-servilleta-2020-negra-tissu-2-capas-caja-2-400",
+   "name": "Servilleta 20×20 negra tissú 2 capas (caja 2.400)",
+   "baseUnit": "caja",
+   "category": "Desechables",
+   "offers": [
+    {
+     "offerId": "temas-de-higiene-servilleta-2020-negra-tissu-2-capas-caja-2-400",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-temas-de-higiene-servilleta-4040-negra-punta-punta-caja-1-200",
+   "name": "Servilleta 40×40 negra punta-punta (caja 1.200)",
+   "baseUnit": "caja",
+   "category": "Desechables",
+   "offers": [
+    {
+     "offerId": "temas-de-higiene-servilleta-4040-negra-punta-punta-caja-1-200",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-alcarria-hosteleria-4206",
+   "name": "Detergente lavavajillas máquina Pool 10 L",
+   "baseUnit": "garrafa",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "alcarria-hosteleria-4206",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-alcarria-hosteleria-3722",
+   "name": "Desengrasante Degrass D-50 4,7 kg",
+   "baseUnit": "ud",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "alcarria-hosteleria-3722",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-alcarria-hosteleria-18206",
+   "name": "Bolsa de vacío 30×40 (paq. 100)",
+   "baseUnit": "paquete",
+   "category": "Desechables",
+   "offers": [
+    {
+     "offerId": "alcarria-hosteleria-18206",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-alcarria-hosteleria-3845",
+   "name": "Rollo 10 paños Roll-Drap",
+   "baseUnit": "ud",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "alcarria-hosteleria-3845",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-alcarria-hosteleria-4285",
+   "name": "Abrillantador Master-box D-900 5 L",
+   "baseUnit": "ud",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "alcarria-hosteleria-4285",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-alcarria-hosteleria-abrillantador-crisolbrill-10-kg",
+   "name": "Abrillantador Crisolbrill 10 kg",
+   "baseUnit": "ud",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "alcarria-hosteleria-abrillantador-crisolbrill-10-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-frutero-frutas-tellez-naranja",
+   "name": "Naranja",
+   "baseUnit": "kg",
+   "category": "Fruta/Verdura",
+   "offers": [
+    {
+     "offerId": "frutero-frutas-tellez-naranja",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-frutero-frutas-tellez-lechuga-en-bolsa",
+   "name": "Lechuga en bolsa",
+   "baseUnit": "ud",
+   "category": "Fruta/Verdura",
+   "offers": [
+    {
+     "offerId": "frutero-frutas-tellez-lechuga-en-bolsa",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-frutero-frutas-tellez-manzana-golden",
+   "name": "Manzana golden",
+   "baseUnit": "kg",
+   "category": "Fruta/Verdura",
+   "offers": [
+    {
+     "offerId": "frutero-frutas-tellez-manzana-golden",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-pechuga-de-pollo-bolsa",
+   "name": "Pechuga de pollo (bolsa)",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-pechuga-de-pollo-bolsa",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-secreto-de-cerdo",
+   "name": "Secreto de cerdo",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-secreto-de-cerdo",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-cinta-de-lomo-de-cerdo",
+   "name": "Cinta de lomo de cerdo",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-cinta-de-lomo-de-cerdo",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-carne-picada-vacuno-congelada",
+   "name": "Carne picada vacuno congelada",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-carne-picada-vacuno-congelada",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-pan-rallado-5-kg",
+   "name": "Pan rallado 5 kg",
+   "baseUnit": "bolsa",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "makro-pan-rallado-5-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-tequenos-de-queso-p-a-n-2-4-kg-60-ud",
+   "name": "Tequeños de queso P.A.N. 2,4 kg (60 ud)",
+   "baseUnit": "caja",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "makro-tequenos-de-queso-p-a-n-2-4-kg-60-ud",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-tomate-cherokee-g-gg-caja-3-kg",
+   "name": "Tomate cherokee G/GG caja 3 kg",
+   "baseUnit": "caja",
+   "category": "Fruta/Verdura",
+   "offers": [
+    {
+     "offerId": "makro-tomate-cherokee-g-gg-caja-3-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-micromezclum-250-g",
+   "name": "Micromezclum 250 g",
+   "baseUnit": "bandeja",
+   "category": "Fruta/Verdura",
+   "offers": [
+    {
+     "offerId": "makro-micromezclum-250-g",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-azucar-blanco-101-kg",
+   "name": "Azúcar blanco 10×1 kg",
+   "baseUnit": "pack",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "makro-azucar-blanco-101-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-salsa-tartufata-500-g",
+   "name": "Salsa tartufata 500 g",
+   "baseUnit": "frasco",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "makro-salsa-tartufata-500-g",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-helado-vainilla-2-5-l",
+   "name": "Helado vainilla 2,5 L",
+   "baseUnit": "ud",
+   "category": "Postres",
+   "offers": [
+    {
+     "offerId": "makro-helado-vainilla-2-5-l",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-patata-steakhouse-2-5-kg",
+   "name": "Patata steakhouse 2,5 kg",
+   "baseUnit": "bolsa",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "makro-patata-steakhouse-2-5-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-mango-en-cubos-1-kg",
+   "name": "Mango en cubos 1 kg",
+   "baseUnit": "bolsa",
+   "category": "Fruta/Verdura",
+   "offers": [
+    {
+     "offerId": "makro-mango-en-cubos-1-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-vaso-sidra-50-cl-12-ud",
+   "name": "Vaso sidra 50 cl (12 ud)",
+   "baseUnit": "caja",
+   "category": "Desechables",
+   "offers": [
+    {
+     "offerId": "makro-vaso-sidra-50-cl-12-ud",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-vaso-country-36-cl-6-ud",
+   "name": "Vaso country 36 cl (6 ud)",
+   "baseUnit": "caja",
+   "category": "Desechables",
+   "offers": [
+    {
+     "offerId": "makro-vaso-country-36-cl-6-ud",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-lomo-bajo-de-vaca-congelado",
+   "name": "Lomo bajo de vaca congelado",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-lomo-bajo-de-vaca-congelado",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-recortes-salmon-ahumado-750-g",
+   "name": "Recortes salmón ahumado 750 g",
+   "baseUnit": "bolsa",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "makro-recortes-salmon-ahumado-750-g",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-berberechos-35-45-pack-3-latas",
+   "name": "Berberechos 35/45 (pack 3 latas)",
+   "baseUnit": "pack",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "makro-berberechos-35-45-pack-3-latas",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-aceite-de-oliva-0-4o-5-l",
+   "name": "Aceite de oliva 0,4º 5 L",
+   "baseUnit": "bidón",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "makro-aceite-de-oliva-0-4o-5-l",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-mantequilla-tarrina-8-g-100-ud",
+   "name": "Mantequilla tarrina 8 g (100 ud)",
+   "baseUnit": "caja",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "makro-mantequilla-tarrina-8-g-100-ud",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-tomate-deshidratado-en-aceite-600-g",
+   "name": "Tomate deshidratado en aceite 600 g",
+   "baseUnit": "frasco",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "makro-tomate-deshidratado-en-aceite-600-g",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-higado-de-pato-extra-450-g",
+   "name": "Hígado de pato extra 450 g",
+   "baseUnit": "pieza",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-higado-de-pato-extra-450-g",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-jamon-medio-centro-curado",
+   "name": "Jamón medio centro curado",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-jamon-medio-centro-curado",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-panceta-en-filetes",
+   "name": "Panceta en filetes",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-panceta-en-filetes",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-chorizo-criollo",
+   "name": "Chorizo criollo",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-chorizo-criollo",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-cecina-taco",
+   "name": "Cecina taco",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-cecina-taco",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-bacon-ahumado-pieza",
+   "name": "Bacon ahumado pieza",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "makro-bacon-ahumado-pieza",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-anchoa-filete-aceite-lata-600-g",
+   "name": "Anchoa filete aceite lata 600 g",
+   "baseUnit": "lata",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "makro-anchoa-filete-aceite-lata-600-g",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-pesto-gia-650-g",
+   "name": "Pesto Gia 650 g",
+   "baseUnit": "frasco",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "makro-pesto-gia-650-g",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-tomate-triturado-lata-4-kg",
+   "name": "Tomate triturado lata 4 kg",
+   "baseUnit": "lata",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "makro-tomate-triturado-lata-4-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-arroz-extra-5-kg",
+   "name": "Arroz extra 5 kg",
+   "baseUnit": "bolsa",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "makro-arroz-extra-5-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-leche-de-coco-aroy-d-1-l",
+   "name": "Leche de coco Aroy-D 1 L",
+   "baseUnit": "brik",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "makro-leche-de-coco-aroy-d-1-l",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-miel-de-flores-500-g",
+   "name": "Miel de flores 500 g",
+   "baseUnit": "bote",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "makro-miel-de-flores-500-g",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-makro-pajitas-de-papel-250-ud",
+   "name": "Pajitas de papel (250 ud)",
+   "baseUnit": "bolsa",
+   "category": "Desechables",
+   "offers": [
+    {
+     "offerId": "makro-pajitas-de-papel-250-ud",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-foster-food-40000352",
+   "name": "Costillar asado neutro (caja 10)",
+   "baseUnit": "caja",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "foster-food-40000352",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-foster-food-40003051",
+   "name": "Royal Kentucky chicken (caja 4 bolsas)",
+   "baseUnit": "caja",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "foster-food-40003051",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-foster-food-40000896",
+   "name": "Cebolla frita crujiente Kooking 1 kg",
+   "baseUnit": "bolsa",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "foster-food-40000896",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-foster-food-40001112",
+   "name": "Mostaza miel cubo 1 kg",
+   "baseUnit": "cubo",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "foster-food-40001112",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-foster-food-40001420",
+   "name": "Salsa tacos 2.300 ml",
+   "baseUnit": "bote",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "foster-food-40001420",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-foster-food-40001314",
+   "name": "Polpa di pomodoro lata 2,5 kg",
+   "baseUnit": "lata",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "foster-food-40001314",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-foster-food-40001404",
+   "name": "Tortilla wrap 25 cm (caja 6 paq.)",
+   "baseUnit": "caja",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "foster-food-40001404",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-foster-food-40001400",
+   "name": "Tortilla wrap 12 cm (caja 20 bolsas)",
+   "baseUnit": "caja",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "foster-food-40001400",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-foster-food-40001128",
+   "name": "Mahonesa de bacon 830 g",
+   "baseUnit": "bote",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "foster-food-40001128",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-foster-food-40001124",
+   "name": "Ballymaloe steak sauce 960 ml",
+   "baseUnit": "botella",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "foster-food-40001124",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-alicentro-3711",
+   "name": "Centro de jamón ibérico",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "alicentro-3711",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-alicentro-4188",
+   "name": "Lomo alto +6",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "alicentro-4188",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-alicentro-4162",
+   "name": "Lomo bajo +7 infiltrado",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "alicentro-4162",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-alicentro-5384",
+   "name": "Rulo mixto",
+   "baseUnit": "pieza",
+   "category": "Quesos/Lácteos",
+   "offers": [
+    {
+     "offerId": "alicentro-5384",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-alicentro-3316",
+   "name": "Escámez pulido",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "alicentro-3316",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-serpeska-h311379",
+   "name": "Focaccia larga rústica 436 g",
+   "baseUnit": "ud",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "serpeska-h311379",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-serpeska-c500189",
+   "name": "Anilla de calamar nacional con rejo",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "serpeska-c500189",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-serpeska-c340249",
+   "name": "Langostino austral 20/30",
+   "baseUnit": "kg",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "serpeska-c340249",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-mahou-m003",
+   "name": "Barril Mahou Clásica 30 L (neto con dto)",
+   "baseUnit": "barril",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "mahou-m003",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-mahou-m014",
+   "name": "Barril Mahou 0,0 Tostada 20 L (neto)",
+   "baseUnit": "barril",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "mahou-m014",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-mahou-m033",
+   "name": "Mahou Clásica 1/3 retornable (neto)",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "mahou-m033",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-mahou-m043",
+   "name": "Mahou 5 Estrellas 1/3 retornable (neto)",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "mahou-m043",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-mahou-m017",
+   "name": "Barril Mahou Maestra 30 L (neto)",
+   "baseUnit": "barril",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "mahou-m017",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-mahou-m031",
+   "name": "Mahou Clásica 1/5 retornable (neto)",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "mahou-m031",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-74080",
+   "name": "Agua Solán vidrio 1 L (caja 12) – tarifa",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-74080",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-74081",
+   "name": "Agua Solán vidrio 50 cl – tarifa",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-74081",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-777632",
+   "name": "Agua Solán con gas 1/3 (24) – tarifa",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-777632",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-1422",
+   "name": "Atún escabeche Arroyabe",
+   "baseUnit": "ud",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "solum-pars-1422",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-9598",
+   "name": "Galleta Lotus caramelizada (300 ud)",
+   "baseUnit": "caja",
+   "category": "Postres",
+   "offers": [
+    {
+     "offerId": "solum-pars-9598",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-15233",
+   "name": "Mayonesa Heinz cubo 5 L",
+   "baseUnit": "cubo",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "solum-pars-15233",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-15234",
+   "name": "Ketchup Heinz sobres 10 ml (200)",
+   "baseUnit": "caja",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "solum-pars-15234",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-15235",
+   "name": "Mayonesa Heinz sobres 10 ml (200)",
+   "baseUnit": "caja",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "solum-pars-15235",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-84106",
+   "name": "Aceite girasol alto oleico 25 L",
+   "baseUnit": "ud",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "solum-pars-84106",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-17310",
+   "name": "Vino El Sotillo tinto 75 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-17310",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-19093",
+   "name": "Fanta limón 2 L",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-19093",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-19077",
+   "name": "Red Bull 250 ml",
+   "baseUnit": "lata",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-19077",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-19118",
+   "name": "Gaseosa La Casera 0,5 L",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-19118",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-20098",
+   "name": "Aceite girasol Coosol 5 L",
+   "baseUnit": "garrafa",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "solum-pars-20098",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-20248",
+   "name": "AOVE monodosis 10 ml",
+   "baseUnit": "caja",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "solum-pars-20248",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-25086",
+   "name": "Bobina papel industrial virgen",
+   "baseUnit": "ud",
+   "category": "Limpieza/Higiene",
+   "offers": [
+    {
+     "offerId": "solum-pars-25086",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-1195",
+   "name": "Berberecho Baymar 25/35",
+   "baseUnit": "lata",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "solum-pars-1195",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-1287",
+   "name": "Anchoa mariposa 25 pz",
+   "baseUnit": "ud",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "solum-pars-1287",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-12152",
+   "name": "Cóctel aceitunas maxicubo 3,5 kg",
+   "baseUnit": "ud",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "solum-pars-12152",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-84007",
+   "name": "Leche Pascual 1,5 L (neto)",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-84007",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-74095",
+   "name": "Barril Alhambra Reserva Roja 20 L (neto)",
+   "baseUnit": "barril",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-74095",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-74100",
+   "name": "Gas CO2 bombona",
+   "baseUnit": "ud",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-74100",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-17058",
+   "name": "Martini rojo 1 L",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-17058",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-17428",
+   "name": "Vermut Yzaguirre rojo 1 L",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-17428",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18000",
+   "name": "Whisky White Label 70 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18000",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18001",
+   "name": "Whisky J&B 70 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18001",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18002",
+   "name": "Whisky Johnnie Walker Red 70 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18002",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18007",
+   "name": "Whisky DYC 8 años",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18007",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18008",
+   "name": "Whisky DYC 70 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18008",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18039",
+   "name": "Vodka Absolut 70 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18039",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18068",
+   "name": "Ginebra Beefeater 70 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18068",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18070",
+   "name": "Ginebra Larios 1 L",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18070",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18335",
+   "name": "Ginebra Larios 12 70 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18335",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18345",
+   "name": "Ginebra Puerto de Indias",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18345",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18171",
+   "name": "Ron Barceló Añejo 70 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18171",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18210",
+   "name": "Ron Brugal Añejo 70 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18210",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18225",
+   "name": "Licor de limón Villamasa 70 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18225",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-solum-pars-18385",
+   "name": "Crema de orujo El Afilador 70 cl",
+   "baseUnit": "botella",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "solum-pars-18385",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-disconfa-14001",
+   "name": "Alas partidas Pavidol 5 kg",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "disconfa-14001",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-disconfa-14030",
+   "name": "Alas de pollo enteras 5 kg",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "disconfa-14030",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-disconfa-10314",
+   "name": "Flor de alcachofa XXL 16×4",
+   "baseUnit": "caja",
+   "category": "Verdura/Setas",
+   "offers": [
+    {
+     "offerId": "disconfa-10314",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-disconfa-10324",
+   "name": "Flor de alcachofa confitada 6×6",
+   "baseUnit": "ud",
+   "category": "Verdura/Setas",
+   "offers": [
+    {
+     "offerId": "disconfa-10324",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-dmc-maper-catering-01579",
+   "name": "Mini empanadilla de bonito 4 kg",
+   "baseUnit": "kg",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "dmc-maper-catering-01579",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-dmc-maper-catering-01610",
+   "name": "Mini san jacobo 10×500 g",
+   "baseUnit": "kg",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "dmc-maper-catering-01610",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-disa-heineken-1341",
+   "name": "Heineken 1/3 retornable 24 (neto)",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "disa-heineken-1341",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-disa-heineken-1343",
+   "name": "Heineken 0,0 1/3 retornable 24 (neto)",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "disa-heineken-1343",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-disa-heineken-93223",
+   "name": "Schweppes tónica 20 cl (28) neto",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "disa-heineken-93223",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-disa-heineken-95884",
+   "name": "Trina limón zero 25 cl (24) neto",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "disa-heineken-95884",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-s-3553",
+   "name": "Albahaca hoja 210 g",
+   "baseUnit": "bote",
+   "category": "Verdura/Setas",
+   "offers": [
+    {
+     "offerId": "ehosa-s-3553",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-empanada-de-atun-soyago",
+   "name": "Empanada de atún Soyago",
+   "baseUnit": "ud",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "ehosa-empanada-de-atun-soyago",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-c-2424",
+   "name": "Empanadilla de atún",
+   "baseUnit": "ud",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "ehosa-c-2424",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-r-6604",
+   "name": "Ensaladilla de ahumados",
+   "baseUnit": "ud",
+   "category": "Precocinados",
+   "offers": [
+    {
+     "offerId": "ehosa-r-6604",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-r-1371",
+   "name": "Filete anchoa Cantábrico Hoyo",
+   "baseUnit": "ud",
+   "category": "Pescado/Marisco",
+   "offers": [
+    {
+     "offerId": "ehosa-r-1371",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-s-4200",
+   "name": "Pimentón de la Vera DO dulce",
+   "baseUnit": "ud",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "ehosa-s-4200",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-r-1155",
+   "name": "Punta de costilla adobada",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "ehosa-r-1155",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-s-4123",
+   "name": "Mermelada fresa cubo",
+   "baseUnit": "cubo",
+   "category": "Postres",
+   "offers": [
+    {
+     "offerId": "ehosa-s-4123",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-r-1439",
+   "name": "Nata montada spray 700 ml",
+   "baseUnit": "ud",
+   "category": "Postres",
+   "offers": [
+    {
+     "offerId": "ehosa-r-1439",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-s-835",
+   "name": "Sirope de chocolate",
+   "baseUnit": "ud",
+   "category": "Postres",
+   "offers": [
+    {
+     "offerId": "ehosa-s-835",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-s-837",
+   "name": "Sirope de fresa",
+   "baseUnit": "ud",
+   "category": "Postres",
+   "offers": [
+    {
+     "offerId": "ehosa-s-837",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-s-4058",
+   "name": "Caldo de verdura Knorr",
+   "baseUnit": "ud",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "ehosa-s-4058",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-s-3618",
+   "name": "Fajitas especias mix 810 g",
+   "baseUnit": "bote",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "ehosa-s-3618",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-s-3574",
+   "name": "Orégano hoja 150 g",
+   "baseUnit": "bote",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "ehosa-s-3574",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ehosa-s-3564",
+   "name": "Comino molido 700 g",
+   "baseUnit": "bote",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "ehosa-s-3564",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-begibe-cafe-c21",
+   "name": "Café arábica 100 % grano oro",
+   "baseUnit": "kg",
+   "category": "Café/Infusiones",
+   "offers": [
+    {
+     "offerId": "begibe-cafe-c21",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-begibe-cafe-c17",
+   "name": "Café descafeinado arábica",
+   "baseUnit": "kg",
+   "category": "Café/Infusiones",
+   "offers": [
+    {
+     "offerId": "begibe-cafe-c17",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-begibe-cafe-082",
+   "name": "Sacarina cesto",
+   "baseUnit": "ud",
+   "category": "Café/Infusiones",
+   "offers": [
+    {
+     "offerId": "begibe-cafe-082",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-begibe-cafe-azucar-sobres-5-g-1-000",
+   "name": "Azúcar sobres 5 g (1.000)",
+   "baseUnit": "caja",
+   "category": "Café/Infusiones",
+   "offers": [
+    {
+     "offerId": "begibe-cafe-azucar-sobres-5-g-1-000",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-begibe-cafe-096",
+   "name": "Azúcar moreno cesta",
+   "baseUnit": "ud",
+   "category": "Café/Infusiones",
+   "offers": [
+    {
+     "offerId": "begibe-cafe-096",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-begibe-cafe-012",
+   "name": "Cola Cao",
+   "baseUnit": "ud",
+   "category": "Café/Infusiones",
+   "offers": [
+    {
+     "offerId": "begibe-cafe-012",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-begibe-cafe-p3-p5",
+   "name": "Infusión pirámides (20)",
+   "baseUnit": "caja",
+   "category": "Café/Infusiones",
+   "offers": [
+    {
+     "offerId": "begibe-cafe-p3-p5",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-royalmar-pan-63483",
+   "name": "Pan Burger Beach (caja 80) neto",
+   "baseUnit": "caja",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "royalmar-pan-63483",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-royalmar-pan-211499",
+   "name": "Bocadillo Diamante (caja 44) neto",
+   "baseUnit": "caja",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "royalmar-pan-211499",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-royalmar-pan-69660",
+   "name": "Frisandwich tostada 800 g (caja 8) neto",
+   "baseUnit": "caja",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "royalmar-pan-69660",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-royalmar-pan-62358",
+   "name": "Burger brioche sin gluten 80 g (caja 20) neto",
+   "baseUnit": "caja",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "royalmar-pan-62358",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-royalmar-pan-66165",
+   "name": "Mini Rock&Roll (caja 108) neto",
+   "baseUnit": "caja",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "royalmar-pan-66165",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-odyel-o-donnell-170202",
+   "name": "Vino Esencia 27 verdejo semidulce (caja 6) neto",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "odyel-o-donnell-170202",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-odyel-o-donnell-710701",
+   "name": "Tomate Tomaunta Gallina Blanca 800 g neto",
+   "baseUnit": "lata",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "odyel-o-donnell-710701",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-odyel-o-donnell-751641",
+   "name": "Marineras 120 g (caja 14) neto",
+   "baseUnit": "caja",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "odyel-o-donnell-751641",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-odyel-o-donnell-560401",
+   "name": "Vino Sin Palabras (caja 6) neto",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "odyel-o-donnell-560401",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-odyel-o-donnell-284509",
+   "name": "Aceituna cóctel campero 4 kg neto",
+   "baseUnit": "cubo",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "odyel-o-donnell-284509",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-odyel-o-donnell-250405",
+   "name": "Pimentón picante ahumado 490 g",
+   "baseUnit": "bote",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "odyel-o-donnell-250405",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-cohermo-1001",
+   "name": "Panceta adobada",
+   "baseUnit": "kg",
+   "category": "Carnes",
+   "offers": [
+    {
+     "offerId": "cohermo-1001",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-pan-ranz-barra-220-g",
+   "name": "Barra 220 g",
+   "baseUnit": "ud",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "pan-ranz-barra-220-g",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-pan-ranz-pan-payes-2-kg",
+   "name": "Pan payés 2 kg",
+   "baseUnit": "ud",
+   "category": "Panadería",
+   "offers": [
+    {
+     "offerId": "pan-ranz-pan-payes-2-kg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-barco-huevos-lbg",
+   "name": "Huevo L blanco granel",
+   "baseUnit": "docena",
+   "category": "Huevos",
+   "offers": [
+    {
+     "offerId": "barco-huevos-lbg",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-barco-huevos-bdp",
+   "name": "Patatas fritas bolsa 500 g",
+   "baseUnit": "bolsa",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "barco-huevos-bdp",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-ddi-damm-vo13",
+   "name": "Voll-Damm 1/3 retornable",
+   "baseUnit": "caja",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "ddi-damm-vo13",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-licores-silva-2402040",
+   "name": "Ámbar 0,0 sin gluten 1/3 (tarifa)",
+   "baseUnit": "pack",
+   "category": "Bebidas",
+   "offers": [
+    {
+     "offerId": "licores-silva-2402040",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  },
+  {
+   "id": "g-hiper-usera-tu-cash-160739",
+   "name": "Chocolate en polvo Eliges 400 g",
+   "baseUnit": "ud",
+   "category": "Alimentación",
+   "offers": [
+    {
+     "offerId": "hiper-usera-tu-cash-160739",
+     "qtyPerPriceUnit": 1,
+     "pack": null
+    }
+   ]
+  }
+ ]
+}

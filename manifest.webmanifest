@@ -1,0 +1,9 @@
+{
+  "name": "LOFT76 Compras",
+  "short_name": "Compras",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#dadfe2",
+  "theme_color": "#22272b",
+  "icons": []
+}
